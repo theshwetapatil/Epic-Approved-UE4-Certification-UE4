@@ -1,0 +1,1009 @@
+﻿Log file open, 07/14/18 09:50:51
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: ArchVisDemo
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1253267746) SRandInit(1253267746).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.158557
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +5:30, Platform Override: ''
+LogConfig: Warning: Failed to saved backup for config[Input]
+LogConfig: Warning: Failed to saved backup for config[EditorPerProjectUserSettings]
+LogConfig: Warning: Failed to saved backup for config[EditorSettings]
+LogConfig: Warning: Failed to saved backup for config[EditorKeyBindings]
+LogConfig: Warning: Failed to saved backup for config[Compat]
+LogConfig: Warning: Failed to saved backup for config[Lightmass]
+LogConfig: Warning: Failed to saved backup for config[Scalability]
+LogConfig: Warning: Failed to saved backup for config[Hardware]
+LogConfig: Warning: Failed to saved backup for config[GameUserSettings]
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogConfig: Warning: Failed to saved backup for config[Paper2D]
+LogPluginManager: Mounting plugin LiveLink
+LogConfig: Warning: Failed to saved backup for config[LiveLink]
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogConfig: Warning: Failed to saved backup for config[LightPropagationVolume]
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogConfig: Warning: Failed to saved backup for config[GitSourceControl]
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogConfig: Warning: Failed to saved backup for config[NullSourceCodeAccess]
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogConfig: Warning: Failed to saved backup for config[SubversionSourceControl]
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogConfig: Warning: Failed to saved backup for config[VisualStudioCodeSourceCodeAccess]
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogConfig: Warning: Failed to saved backup for config[DataValidation]
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogConfig: Warning: Failed to saved backup for config[OnlineSubsystemUtils]
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogConfig: Warning: Failed to saved backup for config[OculusVR]
+LogPluginManager: Mounting plugin PhysXVehicles
+LogConfig: Warning: Failed to saved backup for config[PhysXVehicles]
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took 15.071s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am LAPTOP-SNI5BBA7 (192.168.0.21:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.003s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.07.14-04.21.11:199][  0]LogInit: Selected Device Profile: [Windows]
+[2018.07.14-04.21.11:199][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.07.14-04.21.11:299][  0]LogConfig: Warning: Failed to saved backup for config[DeviceProfiles]
+[2018.07.14-04.21.11:335][  0]LogInit: Computer: LAPTOP-SNI5BBA7
+[2018.07.14-04.21.11:335][  0]LogInit: User: Shweta
+[2018.07.14-04.21.11:335][  0]LogInit: CPU Page size=4096, Cores=2
+[2018.07.14-04.21.11:335][  0]LogInit: High frequency timer resolution =2.835938 MHz
+[2018.07.14-04.21.11:335][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.07.14-04.21.11:335][  0]LogMemory: Platform Memory Stats for Windows
+[2018.07.14-04.21.11:335][  0]LogMemory: Process Physical Memory: 273.24 MB used, 273.24 MB peak
+[2018.07.14-04.21.11:335][  0]LogMemory: Process Virtual Memory: 268.38 MB used, 268.38 MB peak
+[2018.07.14-04.21.11:335][  0]LogMemory: Physical Memory: 6563.13 MB used,  1511.28 MB free, 8074.41 MB total
+[2018.07.14-04.21.11:335][  0]LogMemory: Virtual Memory: 4779.09 MB used,  1511.28 MB free, 134217728.00 MB total
+[2018.07.14-04.21.15:044][  0]LogInit: Using OS detected language (en-US).
+[2018.07.14-04.21.15:044][  0]LogInit: Using OS detected locale (en-US).
+[2018.07.14-04.21.16:156][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.07.14-04.21.22:955][  0]LogStreaming: Display: Took  7.911s to EndInitTextLocalization.
+[2018.07.14-04.21.22:955][  0]LogInit: Setting process to per monitor DPI aware
+[2018.07.14-04.21.24:821][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.07.14-04.21.24:821][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.07.14-04.21.53:470][  0]LogD3D11RHI: D3D11 adapters:
+[2018.07.14-04.21.53:511][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 620' (Feature Level 11_0)
+[2018.07.14-04.21.53:511][  0]LogD3D11RHI:       128/0/4037 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2018.07.14-04.21.53:968][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.07.14-04.21.53:968][  0]LogD3D11RHI:       0/0/4037 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.07.14-04.21.53:968][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.07.14-04.21.53:983][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.07.14-04.21.53:984][  0]LogD3D11RHI:     GPU DeviceId: 0x5916 (for the marketing name, search the web for "GPU Device Id")
+[2018.07.14-04.21.53:984][  0]LogWindows: EnumDisplayDevices:
+[2018.07.14-04.21.53:984][  0]LogWindows:    0. 'Intel(R) HD Graphics 620' (P:1 D:1)
+[2018.07.14-04.21.53:985][  0]LogWindows:    1. 'Intel(R) HD Graphics 620' (P:0 D:0)
+[2018.07.14-04.21.53:986][  0]LogWindows:    2. 'Intel(R) HD Graphics 620' (P:0 D:0)
+[2018.07.14-04.21.53:986][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.07.14-04.21.53:986][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics 620
+[2018.07.14-04.21.53:986][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.07.14-04.21.53:986][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.07.14-04.21.53:986][  0]LogRHI: Texture pool is 1502 MB (70% of 2146 MB)
+[2018.07.14-04.21.54:002][  0]LogD3D11RHI: Async texture creation enabled
+[2018.07.14-04.21.54:014][  0]LogD3D11RHI: GPU Timing Frequency: 12.000000 (Debug: 2 0)
+[2018.07.14-04.21.54:015][  0]LogShaderCompilers: Guid format shader working directory is -66 characters bigger than the processId version (../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Intermediate/Shaders/WorkingDirectory/14524/).
+[2018.07.14-04.21.54:015][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Shweta/AppData/Local/Temp/UnrealShaderWorkingDir/47501ED34D7856700364988E38CFBE2C/'.
+[2018.07.14-04.22.02:497][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.07.14-04.22.02:518][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.07.14-04.22.02:539][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.07.14-04.22.02:560][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.07.14-04.22.02:603][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.07.14-04.22.02:622][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.07.14-04.22.02:644][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.07.14-04.22.02:666][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.07.14-04.22.02:675][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.07.14-04.22.02:695][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.07.14-04.22.02:713][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.07.14-04.22.02:733][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.07.14-04.22.02:750][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.07.14-04.22.02:769][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.07.14-04.22.02:788][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.07.14-04.22.02:826][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.07.14-04.22.02:826][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.07.14-04.22.02:857][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.14-04.22.02:859][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.07.14-04.22.03:182][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.07.14-04.22.03:206][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.07.14-04.22.03:226][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.07.14-04.22.03:245][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.07.14-04.22.03:265][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.07.14-04.22.03:426][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.07.14-04.22.03:426][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.07.14-04.22.08:469][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.07.14-04.22.08:469][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.07.14-04.22.08:469][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.07.14-04.22.40:448][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.07.14-04.22.46:206][  0]LogDerivedDataCache: Loaded boot cache 5.76s 74MB C:/Users/Shweta/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.07.14-04.22.46:206][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Shweta/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.07.14-04.22.46:206][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.07.14-04.22.46:206][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.07.14-04.22.46:206][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.07.14-04.22.46:206][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.07.14-04.22.46:397][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.07.14-04.22.46:410][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Shweta/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.07.14-04.22.46:410][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.07.14-04.22.46:410][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.07.14-04.22.46:431][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.07.14-04.22.46:432][  0]LogSlate: Using Freetype 2.6.0
+[2018.07.14-04.22.46:628][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.07.14-04.22.46:629][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.07.14-04.23.41:568][  0]LogAssetRegistry: FAssetRegistry took 0.0411 seconds to start up
+[2018.07.14-04.23.49:155][  0]LogInit: Selected Device Profile: [Windows]
+[2018.07.14-04.23.52:362][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.07.14-04.23.52:381][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.07.14-04.23.52:381][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.07.14-04.23.52:381][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.07.14-04.23.52:381][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.07.14-04.23.52:381][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.07.14-04.23.52:460][  0]LogNetVersion: ArchVisDemo , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 677477482)
+[2018.07.14-04.23.58:478][  0]LogAssetRegistry: Error: Failed to open file for write ../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Intermediate/AssetRegistryCache/5a627529.bin
+[2018.07.14-04.23.58:499][  0]LogAssetRegistry: Error: Failed to open file for write ../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Intermediate/AssetRegistryCache/2657c409.bin
+[2018.07.14-04.23.58:517][  0]LogAssetRegistry: Error: Failed to open file for write ../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Intermediate/AssetRegistryCache/866581fd.bin
+[2018.07.14-04.23.58:525][  0]LogAssetRegistry: Error: Failed to open file for write ../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Intermediate/AssetRegistryCache/94c5d5a7.bin
+[2018.07.14-04.23.58:547][  0]LogAssetRegistry: Error: Failed to open file for write ../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Intermediate/AssetRegistryCache/8c0e1344.bin
+[2018.07.14-04.23.58:582][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Intermediate/AssetRegistryCache/c9e91a3f.bin.tmp' to '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Intermediate/AssetRegistryCache/c9e91a3f.bin', retrying in .5s...
+[2018.07.14-04.23.59:082][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Intermediate/AssetRegistryCache/c9e91a3f.bin.tmp' to '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Intermediate/AssetRegistryCache/c9e91a3f.bin', retrying in .5s...
+[2018.07.14-04.23.59:583][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Intermediate/AssetRegistryCache/c9e91a3f.bin.tmp' to '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Intermediate/AssetRegistryCache/c9e91a3f.bin', retrying in .5s...
+[2018.07.14-04.24.00:084][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Intermediate/AssetRegistryCache/c9e91a3f.bin.tmp' to '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Intermediate/AssetRegistryCache/c9e91a3f.bin', retrying in .5s...
+[2018.07.14-04.24.00:585][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Intermediate/AssetRegistryCache/c9e91a3f.bin.tmp' to '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Intermediate/AssetRegistryCache/c9e91a3f.bin', retrying in .5s...
+[2018.07.14-04.24.01:085][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Intermediate/AssetRegistryCache/c9e91a3f.bin.tmp' to '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Intermediate/AssetRegistryCache/c9e91a3f.bin', retrying in .5s...
+[2018.07.14-04.24.01:586][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Intermediate/AssetRegistryCache/c9e91a3f.bin.tmp' to '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Intermediate/AssetRegistryCache/c9e91a3f.bin', retrying in .5s...
+[2018.07.14-04.24.02:087][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Intermediate/AssetRegistryCache/c9e91a3f.bin.tmp' to '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Intermediate/AssetRegistryCache/c9e91a3f.bin', retrying in .5s...
+[2018.07.14-04.24.02:588][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Intermediate/AssetRegistryCache/c9e91a3f.bin.tmp' to '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Intermediate/AssetRegistryCache/c9e91a3f.bin', retrying in .5s...
+[2018.07.14-04.24.03:089][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Intermediate/AssetRegistryCache/c9e91a3f.bin.tmp' to '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Intermediate/AssetRegistryCache/c9e91a3f.bin', retrying in .5s...
+[2018.07.14-04.24.03:595][  0]LogFileManager: Error: Error moving file '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Intermediate/AssetRegistryCache/c9e91a3f.bin.tmp' to '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Intermediate/AssetRegistryCache/c9e91a3f.bin'.
+[2018.07.14-04.24.03:680][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 5.294443 seconds
+[2018.07.14-04.24.03:688][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.07.14-04.24.03:688][  0]LogUObjectAllocator: 7314312 out of 0 bytes used by permanent object pool.
+[2018.07.14-04.24.03:688][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.07.14-04.25.20:964][  0]LogConfig: Warning: Failed to saved backup for config[TranslationPickerSettings]
+[2018.07.14-04.25.28:132][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.07.14-04.25.28:236][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.07.14-04.25.33:454][  0]SourceControl: Source control is disabled
+[2018.07.14-04.25.33:454][  0]SourceControl: Source control is disabled
+[2018.07.14-04.25.33:913][  0]SourceControl: Source control is disabled
+[2018.07.14-04.25.34:018][  0]SourceControl: Source control is disabled
+[2018.07.14-04.25.35:485][  0]LogConfig: Warning: Failed to saved backup for config[Crypto]
+[2018.07.14-04.25.40:270][  0]LogConfig: Warning: Failed to saved backup for config[UnitTestStats]
+[2018.07.14-04.25.40:912][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.07.14-04.25.42:012][  0]LogOcInput: OculusInput pre-init called
+[2018.07.14-04.25.47:594][  0]LogAutomationTest: Warning: Smoke tests took > 2s to run: 2.43s
+[2018.07.14-04.25.48:053][  0]LogEngine: Initializing Engine...
+[2018.07.14-04.25.48:726][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.07.14-04.25.48:912][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.07.14-04.25.49:041][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.064 s
+[2018.07.14-04.26.11:189][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.07.14-04.26.14:535][  0]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.14-04.26.17:690][  0]LogInit: FAudioDevice initialized.
+[2018.07.14-04.26.19:314][  0]LogDerivedDataCache: Saved boot cache 0.96s 74MB C:/Users/Shweta/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.07.14-04.26.19:367][  0]LogInit: Texture streaming: Enabled
+[2018.07.14-04.26.22:111][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.07.14-04.26.33:371][  0]LogInit: Transaction tracking system initialized
+[2018.07.14-04.26.41:750][  0]BlueprintLog: New page: Editor Load
+[2018.07.14-04.27.06:244][  0]LogConfig: Warning: Failed to saved backup for config[LocalizationServiceSettings]
+[2018.07.14-04.27.06:476][  0]LocalizationService: Localization service is disabled
+[2018.07.14-04.27.19:980][  0]LogConsoleResponse: Display: 
+[2018.07.14-04.27.47:384][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.07.14-04.27.47:384][  0]LogCook: Display: Mobile HDR setting 1
+[2018.07.14-04.27.47:563][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.07.14-04.27.47:661][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.07.14-04.27.47:661][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.07.14-04.27.48:671][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Content/' took 1.51s
+[2018.07.14-04.28.15:821][  0]SourceControl: Source control is disabled
+[2018.07.14-04.28.16:088][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.07.14-04.28.16:680][  0]LightingResults: New page: Lighting Build
+[2018.07.14-04.28.17:870][  0]MapCheck: New page: Map Check
+[2018.07.14-04.28.17:870][  0]LightingResults: New page: Lighting Build
+[2018.07.14-04.28.37:952][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2018.07.14-04.28.45:030][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.07.14-04.28.48:097][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.07.14-04.28.48:571][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 473.982ms to complete.
+[2018.07.14-04.28.48:591][  0]LogFileHelpers: Loading map 'Template_Default' took 32.681
+[2018.07.14-04.29.19:674][  0]LogCollectionManager: Loaded 0 collections in 0.014558 seconds
+[2018.07.14-04.29.24:565][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Saved/Collections/' took 0.01s
+[2018.07.14-04.29.24:566][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Content/Developers/Shweta/Collections/' took 0.01s
+[2018.07.14-04.29.24:566][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Content/Collections/' took 0.01s
+[2018.07.14-04.29.24:566][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.07.14-04.29.24:784][  0]LogContentBrowser: Native class hierarchy populated in 0.1120 seconds. Added 2452 classes and 558 folders.
+[2018.07.14-04.29.26:422][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2018.07.14-04.29.36:802][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2018.07.14-04.29.36:887][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.07.14-04.29.41:736][  0]LogSlate: Took 0.140401 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.07.14-04.29.41:927][  0]LogSlate: Took 0.127685 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.07.14-04.29.42:145][  0]LogSlate: Took 0.075531 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.07.14-04.29.44:776][  0]LogRenderer: Reallocating scene render targets to support 856x372 Format 10 NumSamples 1 (Frame:1).
+[2018.07.14-04.29.54:232][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.14-04.29.55:034][  0]LogSlate: Window 'Tutorials' being destroyed
+[2018.07.14-04.29.57:235][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0009 seconds. Added 0 classes and 0 folders.
+[2018.07.14-04.29.57:236][  0]LogLoad: (Engine Initialization) Total time: 601.50 seconds
+[2018.07.14-04.29.57:236][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.07.14-04.30.00:062][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.07.14-04.30.06:692][  1]LogSlate: Took 0.000453 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.07.14-04.30.08:062][  5]LogAssetRegistry: Asset discovery search completed in 386.5192 seconds
+[2018.07.14-04.30.08:352][  5]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.07.14-04.30.08:352][  5]LogCollectionManager: Fixed up redirectors for 0 collections in 0.036570 seconds (updated 0 objects)
+[2018.07.14-04.38.28:926][596]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.14-04.38.39:683][888]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2018.07.14-04.38.45:232][972]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.14-04.39.00:543][423]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.14-04.39.24:490][224]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2018.07.14-04.39.27:833][319]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.14-04.40.12:354][782]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.14-04.41.03:579][504]LogEditorViewport: Clicking on Actor (LMB): Brush (Sphere Brush)
+[2018.07.14-04.41.06:634][601]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.14-04.41.40:587][712]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.14-04.41.52:759][109]LogEditorViewport: Clicking on Actor (context menu): Brush (Sphere Brush)
+[2018.07.14-04.41.53:214][109]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.14-04.41.54:843][255]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.07.14-04.41.56:670][279]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.14-04.41.59:098][494]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.07.14-04.42.34:617][593]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.14-04.42.39:860][757]Cmd: TRANSACTION UNDO
+[2018.07.14-04.42.39:860][757]LogEditorTransaction: Undo Move Actors
+[2018.07.14-04.42.40:035][757]LogSlate: Took 0.000930 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.07.14-04.42.42:175][865]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.14-04.42.49:492][ 95]Cmd: TRANSACTION UNDO
+[2018.07.14-04.42.49:492][ 95]LogEditorTransaction: Undo Move Actors
+[2018.07.14-04.42.55:505][333]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.14-04.43.21:427][240]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.14-04.43.23:233][324]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.07.14-04.43.34:123][623]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.14-04.44.13:109][911]LogEditorViewport: Clicking on Actor (context menu): Brush (Sphere Brush)
+[2018.07.14-04.44.13:161][911]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.14-04.44.13:411][918]LogEditorViewport: Clicking on Actor (context menu): Brush (Sphere Brush)
+[2018.07.14-04.44.13:458][918]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.14-04.44.15:051][ 55]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.07.14-04.44.18:828][171]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.14-04.44.28:914][550]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.07.14-04.44.31:650][633]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.14-04.44.47:554][180]Cmd: TRANSACTION UNDO
+[2018.07.14-04.44.47:554][180]LogEditorTransaction: Undo Scale Actors
+[2018.07.14-04.44.59:829][630]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.14-04.45.12:195][ 37]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.14-04.45.21:961][359]Cmd: TRANSACTION UNDO
+[2018.07.14-04.45.21:961][359]LogEditorTransaction: Undo Scale Actors
+[2018.07.14-04.45.22:653][411]Cmd: TRANSACTION UNDO
+[2018.07.14-04.45.22:653][411]LogEditorTransaction: Undo Scale Actors
+[2018.07.14-04.45.24:326][483]Cmd: TRANSACTION UNDO
+[2018.07.14-04.45.24:326][483]LogEditorTransaction: Undo Move Actors
+[2018.07.14-04.45.24:867][498]Cmd: TRANSACTION UNDO
+[2018.07.14-04.45.24:867][498]LogEditorTransaction: Undo Move Actors
+[2018.07.14-04.45.55:724][507]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.14-04.46.38:523][879]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.14-04.46.53:428][374]Cmd: TRANSACTION UNDO
+[2018.07.14-04.46.53:428][374]LogEditorTransaction: Undo Move Actors
+[2018.07.14-04.46.54:142][427]Cmd: TRANSACTION UNDO
+[2018.07.14-04.46.54:142][427]LogEditorTransaction: Undo Set Scale
+[2018.07.14-04.47.11:321][  5]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.14-04.47.17:966][250]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.14-04.47.50:069][341]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.14-04.48.07:996][924]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.14-04.48.18:208][265]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.14-04.48.25:862][522]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.14-04.48.40:436][  2]LogEditorViewport: Clicking on Actor (LMB): Brush (Sphere Brush)
+[2018.07.14-04.48.46:358][184]LogEditorViewport: Clicking on Actor (context menu): Brush (Sphere Brush)
+[2018.07.14-04.48.46:412][184]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.14-04.48.47:920][291]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.07.14-04.48.58:944][626]Cmd: TRANSACTION UNDO
+[2018.07.14-04.48.58:944][626]LogEditorTransaction: Undo Move Actors
+[2018.07.14-04.49.00:541][733]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.14-04.49.26:930][719]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.14-04.50.11:372][913]LogSlate: Window 'Save Level As' being destroyed
+[2018.07.14-04.50.11:391][913]LogSlate: FSceneViewport::OnFocusLost() reason 3
+[2018.07.14-04.50.12:600][913]LogAIModule: Creating AISystem for world _bridge
+[2018.07.14-04.50.13:008][913]LogSavePackage: Save=222.23ms
+[2018.07.14-04.50.13:008][913]LogSavePackage: Moving '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Saved/_bridge3C70E6954AB6088D751B83B583BB7CA5.tmp' to '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Content/Maps/_bridge.umap'
+[2018.07.14-04.50.13:077][913]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Content/Maps/_bridge.umap
+[2018.07.14-04.50.13:202][913]LogSavePackage: Save=70.56ms
+[2018.07.14-04.50.13:202][913]LogSavePackage: Moving '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Saved/_bridge_BuiltData763626B2469B0554C2401A95256AB9EB.tmp' to '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Content/Maps/_bridge_BuiltData.uasset'
+[2018.07.14-04.50.13:207][913]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Content/Maps/_bridge_BuiltData.uasset
+[2018.07.14-04.50.13:218][913]LogFileHelpers: Saving map '_bridge' took 1.653
+[2018.07.14-04.59.31:631][771]LogSavePackage: Save=85.24ms
+[2018.07.14-04.59.31:631][771]LogSavePackage: Moving '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Saved/Untitled_1_Auto1128832EB417E90A7E13FF99578E80DAE.tmp' to '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Saved/Autosaves/Temp/Untitled_1_Auto1.umap'
+[2018.07.14-04.59.31:667][771]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Saved/Autosaves/Temp/Untitled_1_Auto1.umap
+[2018.07.14-04.59.31:717][771]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.522
+[2018.07.14-04.59.31:717][771]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.522
+[2018.07.14-04.59.58:392][327]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.14-05.01.38:928][279]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.14-05.02.03:407][182]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.14-05.02.08:630][369]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2018.07.14-05.02.08:880][369]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.14-05.02.10:314][481]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.07.14-05.02.12:914][563]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.14-05.02.33:638][323]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
+[2018.07.14-05.02.33:731][323]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.14-05.02.35:037][437]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.07.14-05.02.36:179][473]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2018.07.14-05.02.36:275][473]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.14-05.02.37:237][547]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.07.14-05.02.50:703][989]Cmd: TRANSACTION UNDO
+[2018.07.14-05.02.50:703][989]LogEditorTransaction: Undo Move Actors
+[2018.07.14-05.02.52:347][105]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.14-05.02.58:066][335]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.07.14-05.03.40:627][150]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.14-05.03.56:018][150]LogTextFormatter: Warning: Failed to parse argument "ExistingAsset" as a number (using "0" as a fallback). Please check your format string for errors: "{ExistingAsset} already exists. Do you want to replace it?".
+[2018.07.14-05.03.57:815][150]LogSlate: Window 'Message' being destroyed
+[2018.07.14-05.03.57:822][150]LogSlate: Window 'Save Level As' being destroyed
+[2018.07.14-05.03.57:862][150]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.14-05.03.57:977][150]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.14-05.03.57:998][150]LogAIModule: Creating AISystem for world _bridge
+[2018.07.14-05.03.58:383][150]LogAIModule: Creating AISystem for world _bridge
+[2018.07.14-05.03.58:435][150]LogSavePackage: Save=32.75ms
+[2018.07.14-05.03.58:435][150]LogSavePackage: Moving '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Saved/_bridge15CABB074E5481438E0587BFB6B705F6.tmp' to '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Content/Maps/_bridge.umap'
+[2018.07.14-05.03.58:438][150]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Content/Maps/_bridge.umap
+[2018.07.14-05.03.58:467][150]LogSavePackage: Save=16.54ms
+[2018.07.14-05.03.58:467][150]LogSavePackage: Moving '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Saved/_bridge_BuiltDataCA85A1564859FEB2CAB8E59A226CC2C9.tmp' to '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Content/Maps/_bridge_BuiltData.uasset'
+[2018.07.14-05.03.58:468][150]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Content/Maps/_bridge_BuiltData.uasset
+[2018.07.14-05.03.58:476][150]LogFileHelpers: Saving map '_bridge' took 0.555
+[2018.07.14-05.04.01:595][252]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.14-05.04.31:687][909]LogSlate: Window 'Save Level As' being destroyed
+[2018.07.14-05.04.31:819][909]LogAIModule: Creating AISystem for world _BridgeDemo
+[2018.07.14-05.04.31:885][909]LogSavePackage: Save=37.33ms
+[2018.07.14-05.04.31:885][909]LogSavePackage: Moving '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Saved/_BridgeDemoDF80E2E3455A6B481224B5B3B7A64E11.tmp' to '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Content/_BridgeDemo.umap'
+[2018.07.14-05.04.31:887][909]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Content/_BridgeDemo.umap
+[2018.07.14-05.04.31:892][909]LogFileHelpers: Saving map '_BridgeDemo' took 0.198
+[2018.07.14-05.05.25:973][372]LogSlate: Window 'Save Content' being destroyed
+[2018.07.14-05.05.34:411][419]LogSlate: Window 'Save Level As' being destroyed
+[2018.07.14-05.05.49:229][ 40]LogSlate: Window 'New Project' being destroyed
+[2018.07.14-05.06.06:701][924]LogSlate: Window 'Save Content' being destroyed
+[2018.07.14-05.06.24:188][ 30]LogSlate: Window 'Save Content' being destroyed
+[2018.07.14-05.06.39:290][ 30]LogSlate: Window 'Save Level As' being destroyed
+[2018.07.14-05.06.48:039][198]LogSlate: Window 'Save Content' being destroyed
+[2018.07.14-05.06.50:960][198]LogSlate: Window 'Save Level As' being destroyed
+[2018.07.14-05.06.51:097][198]LogAIModule: Creating AISystem for world Untitled
+[2018.07.14-05.06.51:154][198]LogSavePackage: Save=37.46ms
+[2018.07.14-05.06.51:154][198]LogSavePackage: Moving '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Saved/Untitled439398FF4D28E97F258428BC58342903.tmp' to '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Content/Untitled.umap'
+[2018.07.14-05.06.51:156][198]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Content/Untitled.umap
+[2018.07.14-05.06.51:161][198]LogFileHelpers: Saving map 'Untitled' took 0.194
+[2018.07.14-05.06.51:165][198]Cmd: MAP LOAD FILE="../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Content/_BridgeDemo.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.07.14-05.06.51:165][198]LightingResults: New page: Lighting Build
+[2018.07.14-05.06.51:168][198]LoadErrors: New page: Loading map: _BridgeDemo.umap
+[2018.07.14-05.06.51:169][198]MapCheck: New page: Map Check
+[2018.07.14-05.06.51:169][198]LightingResults: New page: Lighting Build
+[2018.07.14-05.06.51:234][198]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.07.14-05.06.51:276][198]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.07.14-05.06.51:319][198]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 42.938ms to complete.
+[2018.07.14-05.06.51:320][198]LogFileHelpers: Loading map '_BridgeDemo' took 0.157
+[2018.07.14-05.07.01:233][547]LogLinker: Warning: Can't find file '/Game/Untitled_BuiltData'
+[2018.07.14-05.07.01:233][547]LogLinker: Warning: Can't find file for asset '/Game/Untitled_BuiltData' while loading ../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Content/Untitled.umap.
+[2018.07.14-05.07.01:242][547]LoadErrors: Error: /Game/Untitled : Can't find file for asset. /Game/Untitled_BuiltData
+[2018.07.14-05.07.01:244][547]LogLinker: Warning: Can't find file '/Game/Untitled_BuiltData'
+[2018.07.14-05.07.01:244][547]LogLinker: Warning: Can't find file for asset '/Game/Untitled_BuiltData' while loading ../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Content/Untitled.umap.
+[2018.07.14-05.07.01:251][547]LogLinker: Warning: Can't find file '/Game/Untitled_BuiltData'
+[2018.07.14-05.07.01:251][547]LoadErrors: Failed to load /Game/Untitled_BuiltData.Untitled_BuiltData Referenced by PersistentLevel
+[2018.07.14-05.07.01:251][547]LogLinker: Warning: Can't find file for asset '/Game/Untitled_BuiltData' while loading NULL.
+[2018.07.14-05.07.01:255][547]LogAIModule: Creating AISystem for world Untitled
+[2018.07.14-05.07.02:900][547]LogSlate: Window 'Delete Assets' being destroyed
+[2018.07.14-05.07.06:662][682]LogLinker: Warning: Can't find file '/Game/Tools_Overview_BuiltData'
+[2018.07.14-05.07.06:662][682]LogLinker: Warning: Can't find file for asset '/Game/Tools_Overview_BuiltData' while loading ../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Content/Tools_Overview.umap.
+[2018.07.14-05.07.06:662][682]LoadErrors: Error: /Game/Tools_Overview : Can't find file for asset. /Game/Tools_Overview_BuiltData
+[2018.07.14-05.07.06:665][682]LogLinker: Warning: Can't find file '/Game/Tools_Overview_BuiltData'
+[2018.07.14-05.07.06:666][682]LogLinker: Warning: Can't find file for asset '/Game/Tools_Overview_BuiltData' while loading ../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Content/Tools_Overview.umap.
+[2018.07.14-05.07.06:690][682]LogLinker: Warning: Can't find file '/Game/Tools_Overview_BuiltData'
+[2018.07.14-05.07.06:690][682]LoadErrors: Failed to load /Game/Tools_Overview_BuiltData.Tools_Overview_BuiltData Referenced by PersistentLevel
+[2018.07.14-05.07.06:690][682]LogLinker: Warning: Can't find file for asset '/Game/Tools_Overview_BuiltData' while loading NULL.
+[2018.07.14-05.07.06:728][682]LogAIModule: Creating AISystem for world Tools_Overview
+[2018.07.14-05.07.06:756][682]Cmd: MAP LOAD FILE="../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Content/Tools_Overview.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.07.14-05.07.06:756][682]LightingResults: New page: Lighting Build
+[2018.07.14-05.07.06:757][682]LoadErrors: New page: Loading map: Tools_Overview.umap
+[2018.07.14-05.07.06:758][682]MapCheck: New page: Map Check
+[2018.07.14-05.07.06:758][682]LightingResults: New page: Lighting Build
+[2018.07.14-05.07.06:774][682]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.07.14-05.07.06:807][682]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.07.14-05.07.06:851][682]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 44.353ms to complete.
+[2018.07.14-05.07.06:851][682]LogFileHelpers: Loading map 'Tools_Overview' took 0.096
+[2018.07.14-05.07.17:456][ 38]LogLinker: Warning: Can't find file '/Game/_BridgeDemo_BuiltData'
+[2018.07.14-05.07.17:456][ 38]LogLinker: Warning: Can't find file for asset '/Game/_BridgeDemo_BuiltData' while loading ../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Content/_BridgeDemo.umap.
+[2018.07.14-05.07.17:456][ 38]LoadErrors: Error: /Game/_BridgeDemo : Can't find file for asset. /Game/_BridgeDemo_BuiltData
+[2018.07.14-05.07.17:457][ 38]LogLinker: Warning: Can't find file '/Game/_BridgeDemo_BuiltData'
+[2018.07.14-05.07.17:457][ 38]LogLinker: Warning: Can't find file for asset '/Game/_BridgeDemo_BuiltData' while loading ../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Content/_BridgeDemo.umap.
+[2018.07.14-05.07.17:462][ 38]LogLinker: Warning: Can't find file '/Game/_BridgeDemo_BuiltData'
+[2018.07.14-05.07.17:463][ 38]LoadErrors: Failed to load /Game/_BridgeDemo_BuiltData._BridgeDemo_BuiltData Referenced by PersistentLevel
+[2018.07.14-05.07.17:463][ 38]LogLinker: Warning: Can't find file for asset '/Game/_BridgeDemo_BuiltData' while loading NULL.
+[2018.07.14-05.07.17:466][ 38]LogAIModule: Creating AISystem for world _BridgeDemo
+[2018.07.14-05.07.17:487][ 38]Cmd: MAP LOAD FILE="../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Content/_BridgeDemo.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.07.14-05.07.17:487][ 38]LightingResults: New page: Lighting Build
+[2018.07.14-05.07.17:488][ 38]LoadErrors: New page: Loading map: _BridgeDemo.umap
+[2018.07.14-05.07.17:488][ 38]MapCheck: New page: Map Check
+[2018.07.14-05.07.17:488][ 38]LightingResults: New page: Lighting Build
+[2018.07.14-05.07.17:502][ 38]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.07.14-05.07.17:536][ 38]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.07.14-05.07.17:580][ 38]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 43.652ms to complete.
+[2018.07.14-05.07.17:580][ 38]LogFileHelpers: Loading map '_BridgeDemo' took 0.094
+[2018.07.14-05.07.22:802][203]LogLinker: Warning: Can't find file '/Game/Tools_Overview_BuiltData'
+[2018.07.14-05.07.22:802][203]LogLinker: Warning: Can't find file for asset '/Game/Tools_Overview_BuiltData' while loading ../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Content/Tools_Overview.umap.
+[2018.07.14-05.07.22:802][203]LoadErrors: Error: /Game/Tools_Overview : Can't find file for asset. /Game/Tools_Overview_BuiltData
+[2018.07.14-05.07.22:803][203]LogLinker: Warning: Can't find file '/Game/Tools_Overview_BuiltData'
+[2018.07.14-05.07.22:804][203]LogLinker: Warning: Can't find file for asset '/Game/Tools_Overview_BuiltData' while loading ../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Content/Tools_Overview.umap.
+[2018.07.14-05.07.22:811][203]LogLinker: Warning: Can't find file '/Game/Tools_Overview_BuiltData'
+[2018.07.14-05.07.22:811][203]LoadErrors: Failed to load /Game/Tools_Overview_BuiltData.Tools_Overview_BuiltData Referenced by PersistentLevel
+[2018.07.14-05.07.22:811][203]LogLinker: Warning: Can't find file for asset '/Game/Tools_Overview_BuiltData' while loading NULL.
+[2018.07.14-05.07.22:815][203]LogAIModule: Creating AISystem for world Tools_Overview
+[2018.07.14-05.07.22:836][203]Cmd: MAP LOAD FILE="../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Content/Tools_Overview.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.07.14-05.07.22:836][203]LightingResults: New page: Lighting Build
+[2018.07.14-05.07.22:837][203]LoadErrors: New page: Loading map: Tools_Overview.umap
+[2018.07.14-05.07.22:837][203]MapCheck: New page: Map Check
+[2018.07.14-05.07.22:837][203]LightingResults: New page: Lighting Build
+[2018.07.14-05.07.22:852][203]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.07.14-05.07.22:885][203]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.07.14-05.07.22:929][203]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 43.869ms to complete.
+[2018.07.14-05.07.22:929][203]LogFileHelpers: Loading map 'Tools_Overview' took 0.094
+[2018.07.14-05.07.30:145][431]LogLinker: Warning: Can't find file '/Game/_BridgeDemo_BuiltData'
+[2018.07.14-05.07.30:145][431]LogLinker: Warning: Can't find file for asset '/Game/_BridgeDemo_BuiltData' while loading ../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Content/_BridgeDemo.umap.
+[2018.07.14-05.07.30:145][431]LoadErrors: Error: /Game/_BridgeDemo : Can't find file for asset. /Game/_BridgeDemo_BuiltData
+[2018.07.14-05.07.30:146][431]LogLinker: Warning: Can't find file '/Game/_BridgeDemo_BuiltData'
+[2018.07.14-05.07.30:146][431]LogLinker: Warning: Can't find file for asset '/Game/_BridgeDemo_BuiltData' while loading ../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Content/_BridgeDemo.umap.
+[2018.07.14-05.07.30:152][431]LogLinker: Warning: Can't find file '/Game/_BridgeDemo_BuiltData'
+[2018.07.14-05.07.30:152][431]LoadErrors: Failed to load /Game/_BridgeDemo_BuiltData._BridgeDemo_BuiltData Referenced by PersistentLevel
+[2018.07.14-05.07.30:152][431]LogLinker: Warning: Can't find file for asset '/Game/_BridgeDemo_BuiltData' while loading NULL.
+[2018.07.14-05.07.30:156][431]LogAIModule: Creating AISystem for world _BridgeDemo
+[2018.07.14-05.07.30:176][431]Cmd: MAP LOAD FILE="../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Content/_BridgeDemo.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.07.14-05.07.30:176][431]LightingResults: New page: Lighting Build
+[2018.07.14-05.07.30:177][431]LoadErrors: New page: Loading map: _BridgeDemo.umap
+[2018.07.14-05.07.30:177][431]MapCheck: New page: Map Check
+[2018.07.14-05.07.30:177][431]LightingResults: New page: Lighting Build
+[2018.07.14-05.07.30:192][431]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.07.14-05.07.30:224][431]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.07.14-05.07.30:268][431]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 43.406ms to complete.
+[2018.07.14-05.07.30:268][431]LogFileHelpers: Loading map '_BridgeDemo' took 0.093
+[2018.07.14-05.07.34:209][556]LogLinker: Warning: Can't find file '/Game/Tools_Overview_BuiltData'
+[2018.07.14-05.07.34:209][556]LogLinker: Warning: Can't find file for asset '/Game/Tools_Overview_BuiltData' while loading ../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Content/Tools_Overview.umap.
+[2018.07.14-05.07.34:209][556]LoadErrors: Error: /Game/Tools_Overview : Can't find file for asset. /Game/Tools_Overview_BuiltData
+[2018.07.14-05.07.34:210][556]LogLinker: Warning: Can't find file '/Game/Tools_Overview_BuiltData'
+[2018.07.14-05.07.34:211][556]LogLinker: Warning: Can't find file for asset '/Game/Tools_Overview_BuiltData' while loading ../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Content/Tools_Overview.umap.
+[2018.07.14-05.07.34:216][556]LogLinker: Warning: Can't find file '/Game/Tools_Overview_BuiltData'
+[2018.07.14-05.07.34:216][556]LoadErrors: Failed to load /Game/Tools_Overview_BuiltData.Tools_Overview_BuiltData Referenced by PersistentLevel
+[2018.07.14-05.07.34:217][556]LogLinker: Warning: Can't find file for asset '/Game/Tools_Overview_BuiltData' while loading NULL.
+[2018.07.14-05.07.34:221][556]LogAIModule: Creating AISystem for world Tools_Overview
+[2018.07.14-05.07.34:239][556]Cmd: MAP LOAD FILE="../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Content/Tools_Overview.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.07.14-05.07.34:239][556]LightingResults: New page: Lighting Build
+[2018.07.14-05.07.34:240][556]LoadErrors: New page: Loading map: Tools_Overview.umap
+[2018.07.14-05.07.34:241][556]MapCheck: New page: Map Check
+[2018.07.14-05.07.34:241][556]LightingResults: New page: Lighting Build
+[2018.07.14-05.07.34:257][556]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.07.14-05.07.34:289][556]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.07.14-05.07.34:333][556]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 44.006ms to complete.
+[2018.07.14-05.07.34:333][556]LogFileHelpers: Loading map 'Tools_Overview' took 0.094
+[2018.07.14-05.07.42:741][819]LogLinker: Warning: Can't find file '/Game/_BridgeDemo_BuiltData'
+[2018.07.14-05.07.42:741][819]LogLinker: Warning: Can't find file for asset '/Game/_BridgeDemo_BuiltData' while loading ../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Content/_BridgeDemo.umap.
+[2018.07.14-05.07.42:741][819]LoadErrors: Error: /Game/_BridgeDemo : Can't find file for asset. /Game/_BridgeDemo_BuiltData
+[2018.07.14-05.07.42:743][819]LogLinker: Warning: Can't find file '/Game/_BridgeDemo_BuiltData'
+[2018.07.14-05.07.42:743][819]LogLinker: Warning: Can't find file for asset '/Game/_BridgeDemo_BuiltData' while loading ../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Content/_BridgeDemo.umap.
+[2018.07.14-05.07.42:751][819]LogLinker: Warning: Can't find file '/Game/_BridgeDemo_BuiltData'
+[2018.07.14-05.07.42:751][819]LoadErrors: Failed to load /Game/_BridgeDemo_BuiltData._BridgeDemo_BuiltData Referenced by PersistentLevel
+[2018.07.14-05.07.42:751][819]LogLinker: Warning: Can't find file for asset '/Game/_BridgeDemo_BuiltData' while loading NULL.
+[2018.07.14-05.07.42:755][819]LogAIModule: Creating AISystem for world _BridgeDemo
+[2018.07.14-05.07.42:773][819]Cmd: MAP LOAD FILE="../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Content/_BridgeDemo.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.07.14-05.07.42:773][819]LightingResults: New page: Lighting Build
+[2018.07.14-05.07.42:774][819]LoadErrors: New page: Loading map: _BridgeDemo.umap
+[2018.07.14-05.07.42:774][819]MapCheck: New page: Map Check
+[2018.07.14-05.07.42:776][819]LightingResults: New page: Lighting Build
+[2018.07.14-05.07.42:792][819]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.07.14-05.07.42:832][819]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.07.14-05.07.42:884][819]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 51.118ms to complete.
+[2018.07.14-05.07.42:884][819]LogFileHelpers: Loading map '_BridgeDemo' took 0.111
+[2018.07.14-05.07.52:696][131]LogLinker: Warning: Can't find file '/Game/Tools_Overview_BuiltData'
+[2018.07.14-05.07.52:697][131]LogLinker: Warning: Can't find file for asset '/Game/Tools_Overview_BuiltData' while loading ../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Content/Tools_Overview.umap.
+[2018.07.14-05.07.52:697][131]LoadErrors: Error: /Game/Tools_Overview : Can't find file for asset. /Game/Tools_Overview_BuiltData
+[2018.07.14-05.07.52:700][131]LogLinker: Warning: Can't find file '/Game/Tools_Overview_BuiltData'
+[2018.07.14-05.07.52:700][131]LogLinker: Warning: Can't find file for asset '/Game/Tools_Overview_BuiltData' while loading ../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Content/Tools_Overview.umap.
+[2018.07.14-05.07.52:717][131]LogLinker: Warning: Can't find file '/Game/Tools_Overview_BuiltData'
+[2018.07.14-05.07.52:717][131]LoadErrors: Failed to load /Game/Tools_Overview_BuiltData.Tools_Overview_BuiltData Referenced by PersistentLevel
+[2018.07.14-05.07.52:717][131]LogLinker: Warning: Can't find file for asset '/Game/Tools_Overview_BuiltData' while loading NULL.
+[2018.07.14-05.07.52:727][131]LogAIModule: Creating AISystem for world Tools_Overview
+[2018.07.14-05.07.56:051][131]LogSlate: Window 'Delete Assets' being destroyed
+[2018.07.14-05.08.08:761][440]LogSlate: Window 'New Level' being destroyed
+[2018.07.14-05.08.10:243][494]LogSlate: Window 'ArchVisDemo - Unreal Editor' being destroyed
+[2018.07.14-05.08.10:437][495]Cmd: QUIT_EDITOR
+[2018.07.14-05.08.10:454][495]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.07.14-05.08.10:467][495]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.07.14-05.08.10:468][495]LogExit: Preparing to exit.
+[2018.07.14-05.08.10:959][495]LogDirectoryWatcher: A directory notification for 'C:/Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Content/' was aborted.
+[2018.07.14-05.08.11:023][495]LogExit: Editor shut down
+[2018.07.14-05.08.11:057][495]LogExit: Transaction tracking system shut down
+[2018.07.14-05.08.11:247][495]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.07.14-05.08.11:247][495]LogDirectoryWatcher: A directory notification for '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Content/' was aborted.
+[2018.07.14-05.08.11:247][495]LogDirectoryWatcher: A directory notification for '../../Plugins/2D/Paper2D/Content/' was aborted.
+[2018.07.14-05.08.11:247][495]LogDirectoryWatcher: A directory notification for '../../Plugins/Enterprise/DatasmithContent/Content/' was aborted.
+[2018.07.14-05.08.11:247][495]LogDirectoryWatcher: A directory notification for '../../Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.07.14-05.08.11:247][495]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.07.14-05.08.11:248][495]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.07.14-05.08.11:248][495]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.07.14-05.08.11:454][495]LogExit: Object subsystem successfully closed.
+[2018.07.14-05.08.11:493][495]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.07.14-05.08.11:503][495]LogD3D11RHI: Shutdown
+[2018.07.14-05.08.11:504][495]LogD3D11RHI: CleanupD3DDevice
+[2018.07.14-05.08.11:544][495]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.07.14-05.08.11:569][495]LogModuleManager: Shutting down and abandoning module NewLevelDialog (578)
+[2018.07.14-05.08.11:569][495]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (576)
+[2018.07.14-05.08.11:569][495]LogModuleManager: Shutting down and abandoning module SceneOutliner (574)
+[2018.07.14-05.08.11:569][495]LogModuleManager: Shutting down and abandoning module AddContentDialog (572)
+[2018.07.14-05.08.11:569][495]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.19/FeaturePacks/' was aborted.
+[2018.07.14-05.08.11:572][495]LogModuleManager: Shutting down and abandoning module WidgetCarousel (571)
+[2018.07.14-05.08.11:572][495]LogModuleManager: Shutting down and abandoning module EditorWidgets (568)
+[2018.07.14-05.08.11:572][495]LogModuleManager: Shutting down and abandoning module CollectionManager (566)
+[2018.07.14-05.08.11:572][495]LogDirectoryWatcher: A directory notification for 'C:/Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Content/Collections/' was aborted.
+[2018.07.14-05.08.11:573][495]LogDirectoryWatcher: A directory notification for 'C:/Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Content/Developers/Shweta/Collections/' was aborted.
+[2018.07.14-05.08.11:573][495]LogDirectoryWatcher: A directory notification for 'C:/Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Saved/Collections/' was aborted.
+[2018.07.14-05.08.11:573][495]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (564)
+[2018.07.14-05.08.11:573][495]LogModuleManager: Shutting down and abandoning module StatsViewer (562)
+[2018.07.14-05.08.11:573][495]LogModuleManager: Shutting down and abandoning module FoliageEdit (560)
+[2018.07.14-05.08.11:573][495]LogModuleManager: Shutting down and abandoning module LandscapeEditor (558)
+[2018.07.14-05.08.11:573][495]LogModuleManager: Shutting down and abandoning module MeshPaintMode (556)
+[2018.07.14-05.08.11:573][495]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (554)
+[2018.07.14-05.08.11:573][495]LogModuleManager: Shutting down and abandoning module ActorPickerMode (552)
+[2018.07.14-05.08.11:573][495]LogModuleManager: Shutting down and abandoning module GeometryMode (550)
+[2018.07.14-05.08.11:573][495]LogModuleManager: Shutting down and abandoning module TextureAlignMode (548)
+[2018.07.14-05.08.11:573][495]LogModuleManager: Shutting down and abandoning module BspMode (546)
+[2018.07.14-05.08.11:573][495]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (544)
+[2018.07.14-05.08.11:573][495]LogModuleManager: Shutting down and abandoning module HardwareSurvey (542)
+[2018.07.14-05.08.11:573][495]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (540)
+[2018.07.14-05.08.11:573][495]LogModuleManager: Shutting down and abandoning module AutomationWorker (538)
+[2018.07.14-05.08.11:573][495]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (536)
+[2018.07.14-05.08.11:573][495]LogModuleManager: Shutting down and abandoning module SequenceRecorder (535)
+[2018.07.14-05.08.11:573][495]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (532)
+[2018.07.14-05.08.11:574][495]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (530)
+[2018.07.14-05.08.11:574][495]LogModuleManager: Shutting down and abandoning module PlacementMode (529)
+[2018.07.14-05.08.11:574][495]LogModuleManager: Shutting down and abandoning module MaterialEditor (528)
+[2018.07.14-05.08.11:574][495]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (524)
+[2018.07.14-05.08.11:574][495]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (522)
+[2018.07.14-05.08.11:574][495]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (520)
+[2018.07.14-05.08.11:574][495]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (518)
+[2018.07.14-05.08.11:574][495]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (516)
+[2018.07.14-05.08.11:574][495]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (514)
+[2018.07.14-05.08.11:574][495]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (512)
+[2018.07.14-05.08.11:574][495]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (510)
+[2018.07.14-05.08.11:574][495]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (508)
+[2018.07.14-05.08.11:574][495]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (506)
+[2018.07.14-05.08.11:574][495]LogModuleManager: Shutting down and abandoning module CharacterAI (504)
+[2018.07.14-05.08.11:574][495]LogModuleManager: Shutting down and abandoning module SmartSnapping (502)
+[2018.07.14-05.08.11:574][495]LogModuleManager: Shutting down and abandoning module SessionServices (500)
+[2018.07.14-05.08.11:574][495]LogModuleManager: Shutting down and abandoning module ViewportSnapping (498)
+[2018.07.14-05.08.11:574][495]LogModuleManager: Shutting down and abandoning module ViewportInteraction (496)
+[2018.07.14-05.08.11:574][495]LogModuleManager: Shutting down and abandoning module ClothPainter (494)
+[2018.07.14-05.08.11:574][495]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (493)
+[2018.07.14-05.08.11:574][495]LogModuleManager: Shutting down and abandoning module LogVisualizer (490)
+[2018.07.14-05.08.11:574][495]LogModuleManager: Shutting down and abandoning module IntroTutorials (488)
+[2018.07.14-05.08.11:574][495]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (487)
+[2018.07.14-05.08.11:574][495]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (484)
+[2018.07.14-05.08.11:574][495]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (482)
+[2018.07.14-05.08.11:574][495]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (480)
+[2018.07.14-05.08.11:574][495]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (479)
+[2018.07.14-05.08.11:774][495]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (476)
+[2018.07.14-05.08.11:774][495]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (474)
+[2018.07.14-05.08.11:774][495]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (472)
+[2018.07.14-05.08.11:775][495]LogModuleManager: Shutting down and abandoning module InputBindingEditor (470)
+[2018.07.14-05.08.11:775][495]LogModuleManager: Shutting down and abandoning module MergeActors (468)
+[2018.07.14-05.08.11:775][495]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (466)
+[2018.07.14-05.08.11:775][495]LogModuleManager: Shutting down and abandoning module LocalizationService (465)
+[2018.07.14-05.08.11:775][495]LogModuleManager: Shutting down and abandoning module HardwareTargeting (462)
+[2018.07.14-05.08.11:775][495]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (460)
+[2018.07.14-05.08.11:775][495]LogModuleManager: Shutting down and abandoning module UndoHistory (458)
+[2018.07.14-05.08.11:775][495]LogModuleManager: Shutting down and abandoning module XmlParser (456)
+[2018.07.14-05.08.11:776][495]LogModuleManager: Shutting down and abandoning module Blutility (454)
+[2018.07.14-05.08.11:776][495]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (452)
+[2018.07.14-05.08.11:776][495]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (451)
+[2018.07.14-05.08.11:777][495]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (448)
+[2018.07.14-05.08.11:777][495]LogModuleManager: Shutting down and abandoning module SettingsEditor (446)
+[2018.07.14-05.08.11:777][495]LogModuleManager: Shutting down and abandoning module ProjectLauncher (444)
+[2018.07.14-05.08.11:777][495]LogModuleManager: Shutting down and abandoning module SessionFrontend (442)
+[2018.07.14-05.08.11:778][495]LogModuleManager: Shutting down and abandoning module ProfilerClient (440)
+[2018.07.14-05.08.11:778][495]LogModuleManager: Shutting down and abandoning module DeviceManager (438)
+[2018.07.14-05.08.11:778][495]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (437)
+[2018.07.14-05.08.11:843][495]LogModuleManager: Shutting down and abandoning module AutomationController (434)
+[2018.07.14-05.08.11:843][495]LogModuleManager: Shutting down and abandoning module AutomationWindow (432)
+[2018.07.14-05.08.11:843][495]LogModuleManager: Shutting down and abandoning module Layers (430)
+[2018.07.14-05.08.11:843][495]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (428)
+[2018.07.14-05.08.11:843][495]LogModuleManager: Shutting down and abandoning module DetailCustomizations (426)
+[2018.07.14-05.08.11:844][495]LogModuleManager: Shutting down and abandoning module PackagesDialog (424)
+[2018.07.14-05.08.11:844][495]LogModuleManager: Shutting down and abandoning module Persona (422)
+[2018.07.14-05.08.11:845][495]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (421)
+[2018.07.14-05.08.11:845][495]LogModuleManager: Shutting down and abandoning module AnimGraph (419)
+[2018.07.14-05.08.11:845][495]LogModuleManager: Shutting down and abandoning module Kismet (416)
+[2018.07.14-05.08.11:846][495]LogModuleManager: Shutting down and abandoning module GraphEditor (414)
+[2018.07.14-05.08.11:846][495]LogModuleManager: Shutting down and abandoning module ClassViewer (412)
+[2018.07.14-05.08.11:846][495]LogModuleManager: Shutting down and abandoning module Toolbox (410)
+[2018.07.14-05.08.11:846][495]LogModuleManager: Shutting down and abandoning module ModuleUI (408)
+[2018.07.14-05.08.11:846][495]LogModuleManager: Shutting down and abandoning module MovieSceneTools (406)
+[2018.07.14-05.08.11:847][495]LogModuleManager: Shutting down and abandoning module OutputLog (404)
+[2018.07.14-05.08.11:847][495]LogModuleManager: Shutting down and abandoning module GammaUI (402)
+[2018.07.14-05.08.11:847][495]LogModuleManager: Shutting down and abandoning module Documentation (400)
+[2018.07.14-05.08.11:847][495]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (398)
+[2018.07.14-05.08.11:847][495]LogModuleManager: Shutting down and abandoning module MovieScene (396)
+[2018.07.14-05.08.11:847][495]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (394)
+[2018.07.14-05.08.11:847][495]LogModuleManager: Shutting down and abandoning module LauncherPlatform (392)
+[2018.07.14-05.08.11:847][495]LogModuleManager: Shutting down and abandoning module AnalyticsET (390)
+[2018.07.14-05.08.11:847][495]LogModuleManager: Shutting down and abandoning module PortalServices (388)
+[2018.07.14-05.08.11:848][495]LogModuleManager: Shutting down and abandoning module PortalRpc (386)
+[2018.07.14-05.08.11:848][495]LogModuleManager: Shutting down and abandoning module MessagingRpc (384)
+[2018.07.14-05.08.11:848][495]LogModuleManager: Shutting down and abandoning module AIModule (382)
+[2018.07.14-05.08.11:848][495]LogModuleManager: Shutting down and abandoning module GameplayDebugger (381)
+[2018.07.14-05.08.11:848][495]LogModuleManager: Shutting down and abandoning module AITestSuite (379)
+[2018.07.14-05.08.11:848][495]LogModuleManager: Shutting down and abandoning module DesktopPlatform (376)
+[2018.07.14-05.08.11:848][495]LogModuleManager: Shutting down and abandoning module ProfilerService (374)
+[2018.07.14-05.08.11:965][495]LogModuleManager: Shutting down and abandoning module TaskGraph (372)
+[2018.07.14-05.08.11:965][495]LogModuleManager: Shutting down and abandoning module SteamVRController (370)
+[2018.07.14-05.08.11:965][495]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (368)
+[2018.07.14-05.08.11:965][495]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (366)
+[2018.07.14-05.08.11:967][495]LogModuleManager: Shutting down and abandoning module OculusInput (364)
+[2018.07.14-05.08.11:967][495]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (362)
+[2018.07.14-05.08.11:967][495]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (360)
+[2018.07.14-05.08.11:967][495]LogModuleManager: Shutting down and abandoning module CableComponent (358)
+[2018.07.14-05.08.11:967][495]LogModuleManager: Shutting down and abandoning module AudioCapture (356)
+[2018.07.14-05.08.11:967][495]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (354)
+[2018.07.14-05.08.11:967][495]LogModuleManager: Shutting down and abandoning module AndroidPermission (352)
+[2018.07.14-05.08.11:968][495]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (348)
+[2018.07.14-05.08.11:968][495]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (346)
+[2018.07.14-05.08.11:968][495]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (344)
+[2018.07.14-05.08.11:968][495]LogModuleManager: Shutting down and abandoning module MediaCompositing (342)
+[2018.07.14-05.08.11:968][495]LogModuleManager: Shutting down and abandoning module LinearTimecode (340)
+[2018.07.14-05.08.11:968][495]LogModuleManager: Shutting down and abandoning module ImgMedia (338)
+[2018.07.14-05.08.11:977][495]LogModuleManager: Shutting down and abandoning module HTML5Networking (336)
+[2018.07.14-05.08.11:977][495]LogModuleManager: Shutting down and abandoning module AlembicImporter (334)
+[2018.07.14-05.08.11:977][495]LogModuleManager: Shutting down and abandoning module AlembicLibrary (333)
+[2018.07.14-05.08.11:978][495]LogModuleManager: Shutting down and abandoning module GeometryCache (332)
+[2018.07.14-05.08.11:978][495]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (331)
+[2018.07.14-05.08.11:978][495]LogModuleManager: Shutting down and abandoning module DatasmithContent (326)
+[2018.07.14-05.08.11:978][495]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (324)
+[2018.07.14-05.08.11:978][495]LogModuleManager: Shutting down and abandoning module PluginBrowser (322)
+[2018.07.14-05.08.11:978][495]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (320)
+[2018.07.14-05.08.11:978][495]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (318)
+[2018.07.14-05.08.11:978][495]LogModuleManager: Shutting down and abandoning module CryptoKeys (316)
+[2018.07.14-05.08.11:978][495]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (314)
+[2018.07.14-05.08.11:979][495]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (312)
+[2018.07.14-05.08.11:979][495]LogModuleManager: Shutting down and abandoning module UObjectPlugin (310)
+[2018.07.14-05.08.11:979][495]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (308)
+[2018.07.14-05.08.11:979][495]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (306)
+[2018.07.14-05.08.11:979][495]LogModuleManager: Shutting down and abandoning module GitSourceControl (304)
+[2018.07.14-05.08.11:979][495]LogModuleManager: Shutting down and abandoning module SourceControl (303)
+[2018.07.14-05.08.11:979][495]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (300)
+[2018.07.14-05.08.11:979][495]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (298)
+[2018.07.14-05.08.11:979][495]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (296)
+[2018.07.14-05.08.11:980][495]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (294)
+[2018.07.14-05.08.11:980][495]LogModuleManager: Shutting down and abandoning module Paper2DEditor (292)
+[2018.07.14-05.08.11:980][495]LogModuleManager: Shutting down and abandoning module MeshPaint (291)
+[2018.07.14-05.08.11:980][495]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (288)
+[2018.07.14-05.08.11:980][495]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (286)
+[2018.07.14-05.08.11:980][495]LogModuleManager: Shutting down and abandoning module PhysXVehicles (284)
+[2018.07.14-05.08.11:980][495]LogModuleManager: Shutting down and abandoning module OculusEditor (282)
+[2018.07.14-05.08.11:980][495]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (280)
+[2018.07.14-05.08.11:981][495]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (278)
+[2018.07.14-05.08.11:981][495]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (276)
+[2018.07.14-05.08.11:981][495]LogModuleManager: Shutting down and abandoning module ActorSequence (274)
+[2018.07.14-05.08.11:981][495]LogModuleManager: Shutting down and abandoning module UdpMessaging (272)
+[2018.07.14-05.08.12:082][495]LogModuleManager: Shutting down and abandoning module TcpMessaging (270)
+[2018.07.14-05.08.12:183][495]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (268)
+[2018.07.14-05.08.12:183][495]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (266)
+[2018.07.14-05.08.12:183][495]LogModuleManager: Shutting down and abandoning module FacialAnimation (264)
+[2018.07.14-05.08.12:183][495]LogModuleManager: Shutting down and abandoning module DataValidation (262)
+[2018.07.14-05.08.12:183][495]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (260)
+[2018.07.14-05.08.12:184][495]LogModuleManager: Shutting down and abandoning module LevelEditor (259)
+[2018.07.14-05.08.12:188][495]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (258)
+[2018.07.14-05.08.12:188][495]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (256)
+[2018.07.14-05.08.12:189][495]LogModuleManager: Shutting down and abandoning module MainFrame (254)
+[2018.07.14-05.08.12:189][495]LogModuleManager: Shutting down and abandoning module HotReload (253)
+[2018.07.14-05.08.12:190][495]LogModuleManager: Shutting down and abandoning module ContentBrowser (249)
+[2018.07.14-05.08.12:195][495]LogModuleManager: Shutting down and abandoning module TreeMap (247)
+[2018.07.14-05.08.12:195][495]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (244)
+[2018.07.14-05.08.12:195][495]LogModuleManager: Shutting down and abandoning module LiveLinkEditor (242)
+[2018.07.14-05.08.12:195][495]LogModuleManager: Shutting down and abandoning module LiveLink (240)
+[2018.07.14-05.08.12:522][495]LogModuleManager: Shutting down and abandoning module Paper2D (238)
+[2018.07.14-05.08.12:522][495]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (236)
+[2018.07.14-05.08.12:522][495]LogModuleManager: Shutting down and abandoning module WmfMedia (234)
+[2018.07.14-05.08.12:525][495]LogModuleManager: Shutting down and abandoning module Media (233)
+[2018.07.14-05.08.12:532][495]LogModuleManager: Shutting down and abandoning module PacketHandler (230)
+[2018.07.14-05.08.12:532][495]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (228)
+[2018.07.14-05.08.12:532][495]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (226)
+[2018.07.14-05.08.12:532][495]LogModuleManager: Shutting down and abandoning module MediaAssets (224)
+[2018.07.14-05.08.12:532][495]LogModuleManager: Shutting down and abandoning module Overlay (222)
+[2018.07.14-05.08.12:532][495]LogModuleManager: Shutting down and abandoning module OverlayEditor (221)
+[2018.07.14-05.08.12:532][495]LogModuleManager: Shutting down and abandoning module VREditor (218)
+[2018.07.14-05.08.12:533][495]LogModuleManager: Shutting down and abandoning module StringTableEditor (216)
+[2018.07.14-05.08.12:533][495]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (214)
+[2018.07.14-05.08.12:533][495]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (212)
+[2018.07.14-05.08.12:533][495]LogModuleManager: Shutting down and abandoning module FunctionalTesting (210)
+[2018.07.14-05.08.12:533][495]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (208)
+[2018.07.14-05.08.12:533][495]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (207)
+[2018.07.14-05.08.12:533][495]LogModuleManager: Shutting down and abandoning module UMG (204)
+[2018.07.14-05.08.12:533][495]LogModuleManager: Shutting down and abandoning module UMGEditor (203)
+[2018.07.14-05.08.12:533][495]LogModuleManager: Shutting down and abandoning module Sequencer (202)
+[2018.07.14-05.08.12:534][495]LogModuleManager: Shutting down and abandoning module MessageLog (199)
+[2018.07.14-05.08.12:534][495]LogModuleManager: Shutting down and abandoning module SlateReflector (194)
+[2018.07.14-05.08.12:534][495]LogModuleManager: Shutting down and abandoning module Slate (192)
+[2018.07.14-05.08.12:534][495]LogModuleManager: Shutting down and abandoning module EditorStyle (190)
+[2018.07.14-05.08.12:539][495]LogModuleManager: Shutting down and abandoning module MRMesh (188)
+[2018.07.14-05.08.12:539][495]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (186)
+[2018.07.14-05.08.12:539][495]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (184)
+[2018.07.14-05.08.12:539][495]LogModuleManager: Shutting down and abandoning module XAudio2 (182)
+[2018.07.14-05.08.12:539][495]LogModuleManager: Shutting down and abandoning module Networking (180)
+[2018.07.14-05.08.12:539][495]LogModuleManager: Shutting down and abandoning module Core (178)
+[2018.07.14-05.08.12:539][495]LogModuleManager: Shutting down and abandoning module LevelSequence (176)
+[2018.07.14-05.08.12:539][495]LogModuleManager: Shutting down and abandoning module KismetCompiler (174)
+[2018.07.14-05.08.12:539][495]LogModuleManager: Shutting down and abandoning module MeshUtilities (172)
+[2018.07.14-05.08.12:539][495]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (171)
+[2018.07.14-05.08.12:539][495]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (170)
+[2018.07.14-05.08.12:539][495]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (169)
+[2018.07.14-05.08.12:540][495]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (167)
+[2018.07.14-05.08.12:540][495]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (165)
+[2018.07.14-05.08.12:540][495]LogModuleManager: Shutting down and abandoning module MaterialBaking (161)
+[2018.07.14-05.08.12:540][495]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (157)
+[2018.07.14-05.08.12:558][495]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2018.07.14-05.08.12:611][495]LogDerivedDataCache: Shutdown
+[2018.07.14-05.08.12:611][495]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2018.07.14-05.08.12:611][495]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2018.07.14-05.08.12:611][495]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2018.07.14-05.08.12:611][495]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2018.07.14-05.08.12:612][495]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2018.07.14-05.08.12:612][495]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2018.07.14-05.08.12:612][495]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2018.07.14-05.08.12:612][495]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2018.07.14-05.08.12:612][495]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2018.07.14-05.08.12:612][495]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2018.07.14-05.08.12:612][495]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2018.07.14-05.08.12:612][495]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2018.07.14-05.08.12:613][495]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2018.07.14-05.08.12:613][495]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2018.07.14-05.08.12:613][495]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2018.07.14-05.08.12:613][495]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2018.07.14-05.08.12:661][495]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2018.07.14-05.08.12:662][495]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (119)
+[2018.07.14-05.08.12:662][495]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (117)
+[2018.07.14-05.08.12:662][495]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (115)
+[2018.07.14-05.08.12:662][495]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (113)
+[2018.07.14-05.08.12:662][495]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (111)
+[2018.07.14-05.08.12:662][495]LogModuleManager: Shutting down and abandoning module Messaging (109)
+[2018.07.14-05.08.12:662][495]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (107)
+[2018.07.14-05.08.12:662][495]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (105)
+[2018.07.14-05.08.12:662][495]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (103)
+[2018.07.14-05.08.12:662][495]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (101)
+[2018.07.14-05.08.12:662][495]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (99)
+[2018.07.14-05.08.12:663][495]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (97)
+[2018.07.14-05.08.12:663][495]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (95)
+[2018.07.14-05.08.12:663][495]LogModuleManager: Shutting down and abandoning module Android_ETC1aTargetPlatform (93)
+[2018.07.14-05.08.12:663][495]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (91)
+[2018.07.14-05.08.12:663][495]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (89)
+[2018.07.14-05.08.12:663][495]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (87)
+[2018.07.14-05.08.12:663][495]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (85)
+[2018.07.14-05.08.12:663][495]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (83)
+[2018.07.14-05.08.12:663][495]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (81)
+[2018.07.14-05.08.12:663][495]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (79)
+[2018.07.14-05.08.12:663][495]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (77)
+[2018.07.14-05.08.12:663][495]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (75)
+[2018.07.14-05.08.12:663][495]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (73)
+[2018.07.14-05.08.12:663][495]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (71)
+[2018.07.14-05.08.12:664][495]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (69)
+[2018.07.14-05.08.12:664][495]LogModuleManager: Shutting down and abandoning module InputCore (66)
+[2018.07.14-05.08.12:664][495]LogModuleManager: Shutting down and abandoning module Settings (64)
+[2018.07.14-05.08.12:664][495]LogModuleManager: Shutting down and abandoning module PhysXCooking (62)
+[2018.07.14-05.08.12:664][495]LogModuleManager: Shutting down and abandoning module SteamVR (60)
+[2018.07.14-05.08.12:664][495]LogModuleManager: Shutting down and abandoning module OculusHMD (58)
+[2018.07.14-05.08.12:664][495]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (56)
+[2018.07.14-05.08.12:664][495]LogModuleManager: Shutting down and abandoning module AppleARKit (54)
+[2018.07.14-05.08.12:664][495]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.07.14-05.08.12:664][495]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.07.14-05.08.12:664][495]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.07.14-05.08.12:664][495]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.07.14-05.08.12:664][495]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.07.14-05.08.12:665][495]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.07.14-05.08.12:665][495]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B18CE4BFB-4E9A-4D5A-8CBA-20A5EB071A50%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.19.2-4033788%2B%2B%2BUE4%2BRelease-4.19&UserID=c76cbc614dc4c6a1dc888b8aa3470b3f%7C57113a4ef07749e899daf8a54070ea17%7C6d46c3db-d58f-4b5d-93cd-6fe936b97061&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.07.14-05.08.12:685][495]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.07.14-05.08.12:710][495]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.07.14-05.08.12:710][495]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.07.14-05.08.12:710][495]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.07.14-05.08.12:711][495]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.07.14-05.08.12:711][495]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.07.14-05.08.12:711][495]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.07.14-05.08.12:711][495]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.07.14-05.08.12:713][495]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.07.14-05.08.12:713][495]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.07.14-05.08.12:713][495]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.07.14-05.08.12:713][495]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.07.14-05.08.12:713][495]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.07.14-05.08.12:713][495]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.07.14-05.08.12:713][495]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.07.14-05.08.12:713][495]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.07.14-05.08.12:713][495]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.07.14-05.08.12:713][495]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.07.14-05.08.12:714][495]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.07.14-05.08.12:720][495]LogExit: Exiting.
+[2018.07.14-05.08.12:757][495]Log file closed, 07/14/18 10:38:12
