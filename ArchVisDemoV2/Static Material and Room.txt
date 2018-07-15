@@ -1,0 +1,10 @@
+Material is a shader, used to wrap Textures around a 3D object.
+To make changes in the material open material of the object/ magnifying glass in Material Slots window of the mesh.
+---------------------------------------------------------------------------------------------------------------------
+G/Game View- To switch to game mode
+Very important to have a perspective while carving a map.
+Eg. Couch for a room, Door for a wall
+------------------------------------------------
+****Lighting needs to be rebuild ERROR
+To resolve- Go to Build->Select Build Lights Only(CTRL+SHFT+;)
+****At a time, at most 3 overlapping lights can be active
