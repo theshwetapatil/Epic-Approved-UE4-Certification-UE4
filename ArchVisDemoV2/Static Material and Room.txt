@@ -8,3 +8,19 @@ Eg. Couch for a room, Door for a wall
 ****Lighting needs to be rebuild ERROR
 To resolve- Go to Build->Select Build Lights Only(CTRL+SHFT+;)
 ****At a time, at most 3 overlapping lights can be active
+---------------------------------------------------
+Foliage - To draw different meshes as brush, like grass
+******Light Mass Importance Volume- Gives more accurate light results (Useful for level lights)
+Directional Light-> Details panel-> Atmosphere Sun Light/ Fog - Check
+******Lightmass Portal- Essentially to know where windows are
+Window->World Settings
+World Setting panel-> Lightmass-> Number of indirect light bounces- To capture light bounced around the room
+-------------------------------------------------------------------------------------------------------------------------
+Types of Lights
+BY default only 3 stationary lights can be overlapped.
+(Change Attenuation radius and/or Outer cone angle on light to resolve this issue)
+
+Static - Fully bounced. Baked into the world. Can't be changed in anyway at runtime.
+Dynamic - Movable light. Renders all shadows dynamically. Not to be used as an environmental light. Because shadows don't have prebaking.
+Stationary - In-between static and movable. Allows partially baked lighting. Goves nice dynamic shadows. Can be tweaked, like changing color of stationary light.
+

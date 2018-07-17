@@ -3,3 +3,6 @@ https://docs.unrealengine.com/en-us/Engine/Content/Types/StaticMeshes
 
 Official Unreal Engine Documentation on Geometry Brushes
 https://docs.unrealengine.com/en-us/Engine/Actors/Brushes
+
+Official Unreal Engine Documentation on Geometry Lights
+https://docs.unrealengine.com/en-us/Engine/Rendering/LightingAndShadows/Basics
