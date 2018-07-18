@@ -23,4 +23,18 @@ BY default only 3 stationary lights can be overlapped.
 Static - Fully bounced. Baked into the world. Can't be changed in anyway at runtime.
 Dynamic - Movable light. Renders all shadows dynamically. Not to be used as an environmental light. Because shadows don't have prebaking.
 Stationary - In-between static and movable. Allows partially baked lighting. Goves nice dynamic shadows. Can be tweaked, like changing color of stationary light.
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Reflections
+To implement reflections, add Skylight, intensity .75
+Sphere Reflection Capture- Any surface within that area casts reflection from the center of this actor
+Offset of Sphere Reflection Capture actor can be changed using Capture Offset functionality
+Change Influence Radius to tweak the area covered
+Box Reflection Caputure- For Glassware to reflect room, in the night scene
+---------------------------------------------------------------------------------------------
+Lightmap resolutions
+For 3D Asset- Higher number gives more accurate results
+When casting light on 3D object, light information is baked
+For 3D Object- The higher the resolution, the more light is being baked in, because it's like bigger texture that stores the lighting
+For Geometry- The lower the light resolution refers to the space between lightmap textures
+In case geometry results aren't quite accurate, it's highly likely that it's because the lightmap resolution is high.
+Increase in quality lead to trade-offs in map file size will get larger
