@@ -13,3 +13,6 @@ https://docs.unrealengine.com/en-us/Engine/Rendering/LightingAndShadows/Reflecti
 Official Unreal Engine Documentation on Post Processing
 https://docs.unrealengine.com/en-us/Engine/Rendering/PostProcessEffects
 
+Official Unreal Engine Documentation on Sequencer
+https://docs.unrealengine.com/en-us/Engine/Sequencer/Overview
+

@@ -77,3 +77,18 @@ Screen Space Reflection- reflection we can see in reflection layer.
 Qaulity[increased]- slightly nicer reflections.
 Mass reflection- Once it goes beneath a certain level, reflection gets affected.
 Belndables- To add materials going over the top. Eg. cartoon shader or edge detection shader.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Sequencer
+Sequencer lets one grab any actor in the game and manipulate it in any way and keyframe those manipualtions.
+Eg. Drop Camera into the scene. Move it around in various different ways at different times to create nice smooth camera track.
+Main tweaks- Focal length, Focal distance, Transform, Fade{for scene transition}
+Cinematics->Add level sequence=>Sequences=>Create new sequence
+*****Key All Channel[Selected], Snap Eanable[Selected], Allow All Edits[Selected]
+Create New Camera- To start new camera sequence
+CineCameraActor->(Cam symbol selected)
+SPACE- To play in realtime
+Camera Cuts->Lock viewport to camera cuts[Select]
+World Outliner->Search for the sequence
+Auto Play[Select]
+Set play rate
+Set Loop for looping video
