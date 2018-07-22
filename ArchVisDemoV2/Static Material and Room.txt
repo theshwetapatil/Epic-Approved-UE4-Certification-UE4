@@ -38,3 +38,42 @@ For 3D Object- The higher the resolution, the more light is being baked in, beca
 For Geometry- The lower the light resolution refers to the space between lightmap textures
 In case geometry results aren't quite accurate, it's highly likely that it's because the lightmap resolution is high.
 Increase in quality lead to trade-offs in map file size will get larger
+-------------------------------------------------------------------------------------------------
+Post Processing
+PostProcess Volume- Gives screen with certain overrides and tells it to handle certain visuals in different ways.
+Two PostProcess Volumes can be placed next to each other to give different effects in different areas.
+Unbound- To wrap Post process around the level. {In the latest version, replaced with Infinite Extent; under Post Processing Volume Settings}
+White Balance->Temperature- Change in room mood/color/nice subtle tint.
+For flashback effects- Tweak saturation, contrast, gamma etc color modes.
+Film- To simulate how actually camera takes in footage. Used for crushing shadows and highlights and mixing channels.
+*****Bloom- Anytime anything on the screen is above a threshold value, it will start to blow it out. 
+Size scale decides how large the bloom is. 
+Size of each blur can be controlled.
+Tint of each blur/pass can be of different color.
+Dirt Mask Intensity- To give texture to the dirt. To give realistic lense effect.
+++++++++++++++++++++++
+Auto Expoture- How much of the screen has to be lit or in darkness, in order to take effect.
+It automatically sets brightness between 1-2 different levels.
+Speed Up/Down- Controls how quickly it goes to custom to dark environment.
+Lense Flares- Kinda contagious. To give lense effect.
+Ambiant Occlusion- Edges of different surfaces. Anytime they touch, it adds a darkness into them.
+Radius in worldspace[checked]- Ambiant Occulsion extends upto 2 meters away in world space.
+Tighter, more controlled AO at lower intensity works reasonably nicely.
+Power[increased]- inside of it getting far more stronger.
+Preferable to work with rold radius and tweak the rest of it from there.
+Quality[increased]- smoother transition.
+Bias- controls it creeps in and out of the corners.
+Mip Blend- controls how it blends into the ligthmaps.
+******Global Illumination- (GI Contribution) Useful for lighting.
+Indirect Lighting Insensity- Controls the level of bounced lighting. 
+Tweak color- only changing temperature/ color of bounced lighting. Can get similar effect by tweaking midtones and shadows of the other area.
+Depth of Feild- More of a cinema technique. Adding blur to the areas that are beyond or before a certain region.
+Scale- To decide the blur area
+Focus Distance- To decide focus from player's point of view.
+Depth of field is useful when trying to mimic a real world camera or a cinematic scene.
+Motion Blur- Adds blur to anything that's moving around.
+************Misc-> screen percentage- Helps a lot in VR. In VR projects, supersample them by cranking screen percentage to like 150, at which point it gives far far better image in VR.
+Screen Space Reflection- reflection we can see in reflection layer.
+Qaulity[increased]- slightly nicer reflections.
+Mass reflection- Once it goes beneath a certain level, reflection gets affected.
+Belndables- To add materials going over the top. Eg. cartoon shader or edge detection shader.
