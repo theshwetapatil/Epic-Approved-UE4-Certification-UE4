@@ -16,3 +16,8 @@ https://docs.unrealengine.com/en-us/Engine/Rendering/PostProcessEffects
 Official Unreal Engine Documentation on Sequencer
 https://docs.unrealengine.com/en-us/Engine/Sequencer/Overview
 
+
+Official Unreal Engine Documentation on IES Profiling
+https://docs.unrealengine.com/en-us/Engine/Rendering/LightingAndShadows/IESLightProfiles
+
+

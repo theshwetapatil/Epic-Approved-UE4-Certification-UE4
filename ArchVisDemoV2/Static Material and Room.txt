@@ -92,3 +92,13 @@ World Outliner->Search for the sequence
 Auto Play[Select]
 Set play rate
 Set Loop for looping video
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Finishing Touches
+Setting IES Profile- Select all spotlights.
+Lights->IES Texture=>Set to complex IES
+IES is the format provided by light manufacturers, which mimics the lighting that would come from a real globe.
+IES Use Intensity- Allows to use the actual brightness provided by the IES profile. Looks nice and gives reasonably accurate results.
+After building Light Only; Change Light Qaulity in Build to Production.
+Recommended to create production build before pushing online. At least do one at the end of the day, to get the rough idea of how things are going to look. And recommended to do it incrementally.
+In production lighting, a lot more lighting calculations are done. So, lighting results are substantially more accurate. Sometimes, can brighten up areas previously unnoticed and get a whole lot of indirect lighting to end up in a certain way.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
