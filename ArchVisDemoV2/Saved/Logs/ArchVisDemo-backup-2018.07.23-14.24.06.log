@@ -1,0 +1,1629 @@
+﻿Log file open, 07/23/18 12:50:09
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: ArchVisDemo
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1384509124) SRandInit(-1384509124).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 1.235739
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +5:30, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  3.232s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am LAPTOP-SNI5BBA7 (192.168.0.21:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.07.23-07.20.13:536][  0]LogInit: Selected Device Profile: [Windows]
+[2018.07.23-07.20.13:536][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.07.23-07.20.13:795][  0]LogInit: Computer: LAPTOP-SNI5BBA7
+[2018.07.23-07.20.13:795][  0]LogInit: User: Shweta
+[2018.07.23-07.20.13:795][  0]LogInit: CPU Page size=4096, Cores=2
+[2018.07.23-07.20.13:795][  0]LogInit: High frequency timer resolution =2.835940 MHz
+[2018.07.23-07.20.13:796][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.07.23-07.20.13:796][  0]LogMemory: Platform Memory Stats for Windows
+[2018.07.23-07.20.13:796][  0]LogMemory: Process Physical Memory: 273.86 MB used, 273.86 MB peak
+[2018.07.23-07.20.13:796][  0]LogMemory: Process Virtual Memory: 265.98 MB used, 265.98 MB peak
+[2018.07.23-07.20.13:796][  0]LogMemory: Physical Memory: 6470.81 MB used,  1603.60 MB free, 8074.41 MB total
+[2018.07.23-07.20.13:796][  0]LogMemory: Virtual Memory: 4781.83 MB used,  1603.60 MB free, 134217728.00 MB total
+[2018.07.23-07.20.14:308][  0]LogInit: Using OS detected language (en-US).
+[2018.07.23-07.20.14:308][  0]LogInit: Using OS detected locale (en-US).
+[2018.07.23-07.20.14:810][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.07.23-07.20.15:986][  0]LogStreaming: Display: Took  1.687s to EndInitTextLocalization.
+[2018.07.23-07.20.15:986][  0]LogInit: Setting process to per monitor DPI aware
+[2018.07.23-07.20.16:592][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.07.23-07.20.16:592][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.07.23-07.20.21:990][  0]LogD3D11RHI: D3D11 adapters:
+[2018.07.23-07.20.22:010][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 620' (Feature Level 11_0)
+[2018.07.23-07.20.22:010][  0]LogD3D11RHI:       128/0/4037 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2018.07.23-07.20.22:049][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.07.23-07.20.22:049][  0]LogD3D11RHI:       0/0/4037 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.07.23-07.20.22:049][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.07.23-07.20.22:060][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.07.23-07.20.22:060][  0]LogD3D11RHI:     GPU DeviceId: 0x5916 (for the marketing name, search the web for "GPU Device Id")
+[2018.07.23-07.20.22:061][  0]LogWindows: EnumDisplayDevices:
+[2018.07.23-07.20.22:061][  0]LogWindows:    0. 'Intel(R) HD Graphics 620' (P:1 D:1)
+[2018.07.23-07.20.22:061][  0]LogWindows:    1. 'Intel(R) HD Graphics 620' (P:0 D:0)
+[2018.07.23-07.20.22:061][  0]LogWindows:    2. 'Intel(R) HD Graphics 620' (P:0 D:0)
+[2018.07.23-07.20.22:061][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.07.23-07.20.22:061][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics 620
+[2018.07.23-07.20.22:061][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.07.23-07.20.22:061][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.07.23-07.20.22:061][  0]LogRHI: Texture pool is 1502 MB (70% of 2146 MB)
+[2018.07.23-07.20.22:088][  0]LogD3D11RHI: Async texture creation enabled
+[2018.07.23-07.20.22:104][  0]LogD3D11RHI: GPU Timing Frequency: 12.000000 (Debug: 2 0)
+[2018.07.23-07.20.22:105][  0]LogShaderCompilers: Guid format shader working directory is -65 characters bigger than the processId version (../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Intermediate/Shaders/WorkingDirectory/3836/).
+[2018.07.23-07.20.22:105][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Shweta/AppData/Local/Temp/UnrealShaderWorkingDir/3ED7B6B44EDC959CEC25F79D7D23A729/'.
+[2018.07.23-07.20.24:289][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.07.23-07.20.24:325][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.07.23-07.20.24:349][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.07.23-07.20.24:372][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.07.23-07.20.24:415][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.07.23-07.20.24:500][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.07.23-07.20.24:587][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.07.23-07.20.24:644][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.07.23-07.20.24:669][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.07.23-07.20.24:697][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.07.23-07.20.24:719][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.07.23-07.20.24:741][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.07.23-07.20.24:775][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.07.23-07.20.24:827][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.07.23-07.20.24:868][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.07.23-07.20.25:020][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.07.23-07.20.25:020][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.07.23-07.20.25:090][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.23-07.20.25:127][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.07.23-07.20.25:277][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.07.23-07.20.25:312][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.07.23-07.20.25:375][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.07.23-07.20.25:434][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.07.23-07.20.25:504][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.07.23-07.20.25:588][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.07.23-07.20.25:588][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.07.23-07.20.26:752][  0]LogXGEController: Cleaning working directory: C:/Users/Shweta/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.07.23-07.20.26:752][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.07.23-07.20.26:753][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.07.23-07.20.26:753][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.07.23-07.20.30:245][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.07.23-07.20.31:197][  0]LogDerivedDataCache: Loaded boot cache 0.95s 74MB C:/Users/Shweta/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.07.23-07.20.31:197][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Shweta/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.07.23-07.20.31:197][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.07.23-07.20.31:197][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.07.23-07.20.31:197][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.07.23-07.20.31:197][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.07.23-07.20.31:282][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.07.23-07.20.31:294][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Shweta/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.07.23-07.20.31:294][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.07.23-07.20.31:294][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.07.23-07.20.31:310][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.07.23-07.20.31:372][  0]LogSlate: Using Freetype 2.6.0
+[2018.07.23-07.20.31:608][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.07.23-07.20.31:608][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.07.23-07.20.40:284][  0]LogAssetRegistry: FAssetRegistry took 0.0405 seconds to start up
+[2018.07.23-07.20.44:093][  0]LogInit: Selected Device Profile: [Windows]
+[2018.07.23-07.20.45:156][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.07.23-07.20.45:216][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.07.23-07.20.45:216][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.07.23-07.20.45:216][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.07.23-07.20.45:216][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.07.23-07.20.45:216][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.07.23-07.20.45:443][  0]LogNetVersion: ArchVisDemo , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 677477482)
+[2018.07.23-07.20.48:971][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.113637 seconds
+[2018.07.23-07.20.48:977][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.07.23-07.20.48:977][  0]LogUObjectAllocator: 7314312 out of 0 bytes used by permanent object pool.
+[2018.07.23-07.20.48:977][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.07.23-07.21.36:332][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.07.23-07.21.36:408][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.07.23-07.21.38:683][  0]SourceControl: Source control is disabled
+[2018.07.23-07.21.38:704][  0]SourceControl: Source control is disabled
+[2018.07.23-07.21.38:835][  0]SourceControl: Source control is disabled
+[2018.07.23-07.21.38:881][  0]SourceControl: Source control is disabled
+[2018.07.23-07.21.43:728][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.07.23-07.21.44:597][  0]LogOcInput: OculusInput pre-init called
+[2018.07.23-07.21.47:195][  0]LogEngine: Initializing Engine...
+[2018.07.23-07.21.47:197][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.07.23-07.21.47:199][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.07.23-07.21.47:199][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.07.23-07.21.48:693][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.07.23-07.21.48:725][  0]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.23-07.21.48:751][  0]LogInit: FAudioDevice initialized.
+[2018.07.23-07.21.49:125][  0]LogDerivedDataCache: Saved boot cache 0.37s 74MB C:/Users/Shweta/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.07.23-07.21.49:163][  0]LogInit: Texture streaming: Enabled
+[2018.07.23-07.21.50:223][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.07.23-07.21.50:362][  0]LogInit: Transaction tracking system initialized
+[2018.07.23-07.21.50:995][  0]BlueprintLog: New page: Editor Load
+[2018.07.23-07.21.52:892][  0]LocalizationService: Localization service is disabled
+[2018.07.23-07.21.54:360][  0]LogConsoleResponse: Display: 
+[2018.07.23-07.21.59:053][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.07.23-07.21.59:053][  0]LogCook: Display: Mobile HDR setting 1
+[2018.07.23-07.21.59:053][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.07.23-07.21.59:053][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.07.23-07.21.59:053][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.07.23-07.21.59:447][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Content/' took 0.05s
+[2018.07.23-07.22.09:884][  0]SourceControl: Source control is disabled
+[2018.07.23-07.22.09:884][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.07.23-07.22.09:919][  0]LightingResults: New page: Lighting Build
+[2018.07.23-07.22.09:934][  0]MapCheck: New page: Map Check
+[2018.07.23-07.22.09:934][  0]LightingResults: New page: Lighting Build
+[2018.07.23-07.22.11:979][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2018.07.23-07.22.12:123][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.07.23-07.22.12:149][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.07.23-07.22.12:208][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 59.988ms to complete.
+[2018.07.23-07.22.12:208][  0]LogFileHelpers: Loading map 'Template_Default' took 2.324
+[2018.07.23-07.22.14:356][  0]LogCollectionManager: Loaded 0 collections in 0.009879 seconds
+[2018.07.23-07.22.14:913][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Saved/Collections/' took 0.02s
+[2018.07.23-07.22.14:913][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Content/Developers/Shweta/Collections/' took 0.01s
+[2018.07.23-07.22.14:913][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Content/Collections/' took 0.01s
+[2018.07.23-07.22.14:913][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2018.07.23-07.22.15:082][  0]LogContentBrowser: Native class hierarchy populated in 0.0512 seconds. Added 2452 classes and 558 folders.
+[2018.07.23-07.22.16:050][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.07.23-07.22.22:004][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2018.07.23-07.22.22:136][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2018.07.23-07.22.24:313][  0]LogSlate: Took 0.180044 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.07.23-07.22.24:432][  0]LogSlate: Took 0.069715 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.07.23-07.22.26:687][  0]LogRenderer: Reallocating scene render targets to support 796x372 Format 10 NumSamples 1 (Frame:1).
+[2018.07.23-07.22.32:619][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2018.07.23-07.22.32:619][  0]LogLoad: (Engine Initialization) Total time: 166.64 seconds
+[2018.07.23-07.22.32:619][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.07.23-07.22.34:239][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.07.23-07.22.35:877][  2]LogSlate: Took 0.025051 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.07.23-07.22.36:517][  4]LogAssetRegistry: Asset discovery search completed in 116.2562 seconds
+[2018.07.23-07.22.36:617][  4]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.07.23-07.22.36:617][  4]LogCollectionManager: Fixed up redirectors for 0 collections in 0.010480 seconds (updated 0 objects)
+[2018.07.23-07.25.35:182][601]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.23-07.25.36:752][686]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.23-07.25.37:226][686]LogSlate: Took 0.014223 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.07.23-07.25.41:727][807]Cmd: MAP LOAD FILE="../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Content/Maps/_room_light.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.07.23-07.25.41:851][807]LightingResults: New page: Lighting Build
+[2018.07.23-07.25.41:854][807]LoadErrors: New page: Loading map: _room_light.umap
+[2018.07.23-07.25.42:004][807]MapCheck: New page: Map Check
+[2018.07.23-07.25.42:004][807]LightingResults: New page: Lighting Build
+[2018.07.23-07.26.11:640][807]LogAIModule: Creating AISystem for world _room_light
+[2018.07.23-07.26.12:193][807]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.07.23-07.26.12:349][807]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.07.23-07.26.15:018][807]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 2,669.026ms to complete.
+[2018.07.23-07.26.15:018][807]LogFileHelpers: Loading map '_room_light' took 33.471
+[2018.07.23-07.26.15:079][807]LogSlate: Window 'Open Level' being destroyed
+[2018.07.23-07.26.39:328][ 83]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.23-07.26.53:381][834]LogSlate: Took 0.069840 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.07.23-07.27.05:012][127]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.23-07.27.19:524][572]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.23-07.27.50:406][774]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.23-07.27.52:842][846]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.23-07.29.23:514][143]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.23-07.29.37:631][604]LogSavePackage: Save=366.84ms
+[2018.07.23-07.29.37:631][604]LogSavePackage: Moving '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Saved/_room_lightED9BFB784520FDB286E91A95FBFAD339.tmp' to '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Content/Maps/_room_light.umap'
+[2018.07.23-07.29.37:723][604]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Content/Maps/_room_light.umap
+[2018.07.23-07.29.39:120][604]LogSavePackage: Save=1124.53ms
+[2018.07.23-07.29.39:121][604]LogSavePackage: Moving '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Saved/_room_light_BuiltData8A5FE9E64A9E33C5C6B100AEE216FB83.tmp' to '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Content/Maps/_room_light_BuiltData.uasset'
+[2018.07.23-07.29.39:129][604]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Content/Maps/_room_light_BuiltData.uasset
+[2018.07.23-07.35.02:665][987]MapCheck: New page: Map Check
+[2018.07.23-07.35.02:737][987]Cmd: MAP REBUILD ALLVISIBLE
+[2018.07.23-07.35.02:781][987]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.07.23-07.35.03:652][987]LightingResults: New page: Lighting Build - Jul 23, 2018, 6:35:03 PM
+[2018.07.23-07.35.06:833][987]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.07.23-07.35.08:407][987]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.07.23-07.35.10:356][987]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.07.23-07.35.12:922][987]LogSwarmInterface: Error: [TryOpenConnection] Waiting for the agent to start up ...
+[2018.07.23-07.35.13:194][987]LogSwarmInterface: Error: System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:8008
+
+Server stack trace: 
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Runtime.Remoting.Channels.RemoteConnection.CreateNewSocket(EndPoint ipEndPoint)
+   at System.Runtime.Remoting.Channels.SocketCache.GetSocket(String machinePortAndSid, Boolean openNew)
+   at System.Runtime.Remoting.Channels.Tcp.TcpClientTransportSink.SendRequestWithRetry(IMessage msg, ITransportHeaders requestHeaders, Stream requestStream)
+   at System.Runtime.Remoting.Channels.Tcp.TcpClientTransportSink.AsyncProcessRequest(IClientChannelSinkStack sinkStack, IMessage msg, ITransportHeaders headers, Stream stream)
+   at System.Runtime.Remoting.Channels.BinaryClientFormatterSink.AsyncProcessMessage(IMessage msg, IMessageSink replySink)
+
+Exception rethrown at [0]: 
+   at System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at NSwarm.IAgentInterfaceWrapper.MethodDelegate.EndInvoke(Hashtable& OutParameters, IAsyncResult result)
+   at NSwarm.FSwarmInterface.TryOpenConnection(FConnectionCallback CallbackFunc, IntPtr CallbackData, ELogFlags LoggingFlags)
+[2018.07.23-07.35.18:365][987]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.07.23-07.35.18:365][987]LogSwarmInterface: [TryOpenConnection] Local Process ID is 3836
+[2018.07.23-07.35.27:665][987]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.07.23-07.35.27:665][987]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.07.23-07.35.27:665][987]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.07.23-07.35.27:665][987]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.07.23-07.35.27:665][987]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.07.23-07.35.29:205][987]LogEditorBuildUtils: Build time 0:26
+[2018.07.23-07.36.05:679][768]Job is a success!
+[2018.07.23-07.36.06:001][769]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.049s
+[2018.07.23-07.36.06:001][769]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.07.23-07.36.06:001][769]LogVolumetricLightmapImport:      BrickData 20x5x5 = 0.0Mb
+[2018.07.23-07.36.06:001][769]LogVolumetricLightmapImport:      Bricks at Level
+[2018.07.23-07.36.06:001][769]LogVolumetricLightmapImport:          0: 25.0% covering 100.0% of volume
+[2018.07.23-07.36.06:001][769]LogVolumetricLightmapImport:          1: 25.0% covering 1.6% of volume
+[2018.07.23-07.36.06:001][769]LogVolumetricLightmapImport:          2: 50.0% covering 0.0% of volume
+[2018.07.23-07.36.08:998][769]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 1024X512)
+[2018.07.23-07.36.08:998][769]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2018.07.23-07.36.08:998][769]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2018.07.23-07.36.08:998][769]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 1024X512)
+[2018.07.23-07.36.08:998][769]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 1024X1024)
+[2018.07.23-07.36.08:998][769]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 512X256)
+[2018.07.23-07.36.08:998][769]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 1024X1024)
+[2018.07.23-07.36.08:998][769]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 512X512)
+[2018.07.23-07.36.08:998][769]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 512X512)
+[2018.07.23-07.36.09:598][769]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (BGRA8, 32X512)
+[2018.07.23-07.36.09:672][769]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (BGRA8, 1024X512)
+[2018.07.23-07.36.10:016][769]Lightmass on LAPTOP-SNI5BBA7: 35.5 sec total, 2.71 sec importing, 160 ms setup, 3.02 sec photons, 28.6 sec processing, 0 ms extra exporting [106/106 mappings]. Threads: 1:54 min total, 1:11 min processing.
+[2018.07.23-07.36.10:342][769]LogStaticLightingSystem: Illumination: 1:06 min (2.59 sec encoding lightmaps, 672 ms encoding shadowmaps)
+[2018.07.23-07.36.10:343][769]LogStaticLightingSystem: Lightmap texture memory:  6.0 MB (3.3 MB streaming, 2.7 MB non-streaming), 6 textures
+[2018.07.23-07.36.10:344][769]LogStaticLightingSystem: Shadowmap texture memory: 2.8 MB (2.7 MB streaming, 0.1 MB non-streaming), 2 textures
+[2018.07.23-07.36.10:728][769]DumpUnbuiltLightIteractions
+[2018.07.23-07.36.10:728][769]Lights with unbuilt interactions: 0
+[2018.07.23-07.36.10:728][769]
+[2018.07.23-07.36.10:728][769]Primitives with unbuilt interactions: 0
+[2018.07.23-07.36.11:671][770]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.07.23-07.36.11:671][770]MapCheck: New page: _room_light - Jul 23, 2018, 6:36:11 PM
+[2018.07.23-07.36.12:139][770]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 467.809ms to complete.
+[2018.07.23-07.36.28:097][196]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.23-07.36.28:717][196]LogSavePackage: Save=242.32ms
+[2018.07.23-07.36.28:718][196]LogSavePackage: Moving '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Saved/_room_light87BF33AF4BE718D01EECEB8A9ACA0DC2.tmp' to '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Content/Maps/_room_light.umap'
+[2018.07.23-07.36.28:726][196]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Content/Maps/_room_light.umap
+[2018.07.23-07.36.31:494][196]LogSavePackage: Save=2506.57ms
+[2018.07.23-07.36.31:494][196]LogSavePackage: Moving '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Saved/_room_light_BuiltData9586CA1B46911B1063C4ED9DCE0EDF4C.tmp' to '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Content/Maps/_room_light_BuiltData.uasset'
+[2018.07.23-07.36.31:561][196]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Content/Maps/_room_light_BuiltData.uasset
+[2018.07.23-07.36.43:787][523]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.23-07.37.22:934][878]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.23-07.40.28:364][806]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.23-07.40.32:549][  2]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.23-07.40.37:831][291]MapCheck: New page: Map Check
+[2018.07.23-07.40.37:843][291]Cmd: MAP REBUILD ALLVISIBLE
+[2018.07.23-07.40.37:844][291]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.07.23-07.40.38:593][291]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2018.07.23-07.40.38:814][291]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.07.23-07.40.38:814][291]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_WallPainExterior_MAT, compiling. 
+[2018.07.23-07.40.38:876][291]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_WoodFloor_MAT_Inst, compiling. 
+[2018.07.23-07.40.38:918][291]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MI_Couch_NOSSS_Mat_Inst, compiling. 
+[2018.07.23-07.40.38:981][291]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_WallPainInterior_MAT, compiling. 
+[2018.07.23-07.40.39:002][291]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Door_MAT_Inst, compiling. 
+[2018.07.23-07.40.39:019][291]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_CoffeTable_MAT_Inst, compiling. 
+[2018.07.23-07.40.39:032][291]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_TV_Inst, compiling. 
+[2018.07.23-07.40.39:099][291]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_SlidingDoor_Mat_Inst, compiling. 
+[2018.07.23-07.40.39:123][291]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Glas_MAt_Inst, compiling. 
+[2018.07.23-07.40.39:145][291]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_FloorLamp_Mat_Inst, compiling. 
+[2018.07.23-07.40.39:214][291]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Shelving_Inst, compiling. 
+[2018.07.23-07.40.39:236][291]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Ceramic_Mat_Inst, compiling. 
+[2018.07.23-07.40.39:258][291]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_PlantLeaf_Mat_Inst, compiling. 
+[2018.07.23-07.40.39:324][291]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_PlantBark_Mat_Inst, compiling. 
+[2018.07.23-07.40.39:344][291]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_PlantPot_Mat_Inst, compiling. 
+[2018.07.23-07.40.39:425][291]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MI_Carptet_Mat_Inst, compiling. 
+[2018.07.23-07.40.39:448][291]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_DeskLamp_Mat_Inst, compiling. 
+[2018.07.23-07.40.39:470][291]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Statue_Inst, compiling. 
+[2018.07.23-07.40.39:494][291]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Painting_3, compiling. 
+[2018.07.23-07.40.39:517][291]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Curtain_MAT_Inst, compiling. 
+[2018.07.23-07.40.39:544][291]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Tiles_Mat_Inst, compiling. 
+[2018.07.23-07.40.39:604][291]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Railing_MAT_Inst, compiling. 
+[2018.07.23-07.40.39:628][291]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Wood_A_Master, compiling. 
+[2018.07.23-07.40.39:652][291]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Background_Mat, compiling. 
+[2018.07.23-07.40.39:678][291]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_RoundCeilingLight_Mat_LIT_Inst, compiling. 
+[2018.07.23-07.40.39:726][291]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MI_CineMat_CameraBody, compiling. 
+[2018.07.23-07.40.39:747][291]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MI_CineMat_CamViewFinder, compiling. 
+[2018.07.23-07.40.51:289][291]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.07.23-07.40.51:289][291]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.07.23-07.40.51:289][291]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.07.23-07.40.51:289][291]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.07.23-07.40.51:289][291]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.07.23-07.40.51:289][291]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.07.23-07.40.51:289][291]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.07.23-07.40.51:289][291]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.07.23-07.40.51:289][291]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.07.23-07.40.51:289][291]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.07.23-07.40.51:289][291]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.07.23-07.40.51:289][291]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.07.23-07.40.51:289][291]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.07.23-07.40.51:289][291]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.07.23-07.40.51:289][291]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.07.23-07.40.51:289][291]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.07.23-07.40.51:289][291]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.07.23-07.40.51:289][291]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.07.23-07.40.51:289][291]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.07.23-07.40.51:289][291]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.07.23-07.40.51:289][291]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.07.23-07.40.51:289][291]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.07.23-07.40.51:289][291]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.07.23-07.40.51:289][291]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.07.23-07.40.51:289][291]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.07.23-07.40.51:289][291]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.07.23-07.40.51:289][291]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.07.23-07.40.51:289][291]TextureStreamingBuild: Display: Compiling optional shaders took 12.742 seconds.
+[2018.07.23-07.40.51:995][291]LogLevel: Display: Export Material TexCoord Scales took 0.706 seconds.
+[2018.07.23-07.40.52:066][291]TextureStreamingBuild: Display: Build Texture Streaming took 0.070 seconds.
+[2018.07.23-07.40.52:099][291]LightingResults: New page: Lighting Build - Jul 23, 2018, 6:40:52 PM
+[2018.07.23-07.40.52:111][291]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.07.23-07.40.52:114][291]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.07.23-07.40.52:114][291]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.07.23-07.40.52:116][291]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.07.23-07.40.52:116][291]LogSwarmInterface: [TryOpenConnection] Local Process ID is 3836
+[2018.07.23-07.40.56:645][291]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.07.23-07.40.56:645][291]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.07.23-07.40.56:646][291]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.07.23-07.40.56:646][291]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.07.23-07.40.56:646][291]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.07.23-07.40.57:345][291]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.07.23-07.40.57:345][291]MapCheck: New page: _room_light - Jul 23, 2018, 6:40:57 PM
+[2018.07.23-07.40.57:635][291]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 289.935ms to complete.
+[2018.07.23-07.40.57:662][291]LogEditorBuildUtils: Build time 0:19
+[2018.07.23-07.43.00:273][657]Job is a success!
+[2018.07.23-07.43.00:725][658]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.015s
+[2018.07.23-07.43.00:725][658]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.07.23-07.43.00:725][658]LogVolumetricLightmapImport:      BrickData 20x5x5 = 0.0Mb
+[2018.07.23-07.43.00:725][658]LogVolumetricLightmapImport:      Bricks at Level
+[2018.07.23-07.43.00:725][658]LogVolumetricLightmapImport:          0: 25.0% covering 100.0% of volume
+[2018.07.23-07.43.00:725][658]LogVolumetricLightmapImport:          1: 25.0% covering 1.6% of volume
+[2018.07.23-07.43.00:725][658]LogVolumetricLightmapImport:          2: 50.0% covering 0.0% of volume
+[2018.07.23-07.43.02:885][658]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 1024X512)
+[2018.07.23-07.43.02:885][658]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2018.07.23-07.43.02:885][658]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2018.07.23-07.43.02:885][658]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 1024X1024)
+[2018.07.23-07.43.02:885][658]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 1024X512)
+[2018.07.23-07.43.02:885][658]LogTexture: Display: Building textures: SkyOcclusion1_3 (AutoDXT, 512X256)
+[2018.07.23-07.43.02:885][658]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 1024X1024)
+[2018.07.23-07.43.02:885][658]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 512X512)
+[2018.07.23-07.43.02:885][658]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 512X512)
+[2018.07.23-07.43.03:353][658]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (BGRA8, 1024X512)
+[2018.07.23-07.43.03:354][658]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (BGRA8, 32X512)
+[2018.07.23-07.43.03:616][658]Lightmass on LAPTOP-SNI5BBA7: 2:04 min total, 588 ms importing, 94 ms setup, 2.99 sec photons, 2:00 min processing, 0 ms extra exporting [106/106 mappings]. Threads: 8:01 min total, 5:48 min processing.
+[2018.07.23-07.43.03:618][658]LogStaticLightingSystem: Illumination: 2:11 min (1.95 sec encoding lightmaps, 466 ms encoding shadowmaps)
+[2018.07.23-07.43.03:618][658]LogStaticLightingSystem: Lightmap texture memory:  6.0 MB (3.3 MB streaming, 2.7 MB non-streaming), 6 textures
+[2018.07.23-07.43.03:618][658]LogStaticLightingSystem: Shadowmap texture memory: 2.8 MB (2.7 MB streaming, 0.1 MB non-streaming), 2 textures
+[2018.07.23-07.43.03:803][658]DumpUnbuiltLightIteractions
+[2018.07.23-07.43.03:803][658]Lights with unbuilt interactions: 0
+[2018.07.23-07.43.03:803][658]
+[2018.07.23-07.43.03:803][658]Primitives with unbuilt interactions: 0
+[2018.07.23-07.43.04:751][659]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.07.23-07.43.04:751][659]MapCheck: New page: _room_light - Jul 23, 2018, 6:43:04 PM
+[2018.07.23-07.43.04:842][659]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 91.083ms to complete.
+[2018.07.23-07.46.14:572][340]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.23-07.46.14:871][340]LogSavePackage: Save=229.00ms
+[2018.07.23-07.46.14:872][340]LogSavePackage: Moving '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Saved/_room_lightF99A7AA14017186C827A6F9CD81526C1.tmp' to '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Content/Maps/_room_light.umap'
+[2018.07.23-07.46.14:877][340]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Content/Maps/_room_light.umap
+[2018.07.23-07.46.17:424][340]LogSavePackage: Save=2360.10ms
+[2018.07.23-07.46.17:424][340]LogSavePackage: Moving '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Saved/_room_light_BuiltDataC49558B7428EDF6275559893FDED5FEC.tmp' to '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Content/Maps/_room_light_BuiltData.uasset'
+[2018.07.23-07.46.17:529][340]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Content/Maps/_room_light_BuiltData.uasset
+[2018.07.23-07.46.26:404][576]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.23-07.46.30:393][803]MapCheck: New page: Map Check
+[2018.07.23-07.46.30:406][803]Cmd: MAP REBUILD ALLVISIBLE
+[2018.07.23-07.46.30:407][803]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.07.23-07.46.30:913][803]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2018.07.23-07.46.30:928][803]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_WallPainExterior_MAT, compiling. 
+[2018.07.23-07.46.30:942][803]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.07.23-07.46.30:942][803]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_WoodFloor_MAT_Inst, compiling. 
+[2018.07.23-07.46.30:956][803]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.07.23-07.46.30:957][803]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MI_Couch_NOSSS_Mat_Inst, compiling. 
+[2018.07.23-07.46.30:971][803]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_WallPainInterior_MAT, compiling. 
+[2018.07.23-07.46.30:985][803]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Door_MAT_Inst, compiling. 
+[2018.07.23-07.46.31:003][803]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.07.23-07.46.31:003][803]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_CoffeTable_MAT_Inst, compiling. 
+[2018.07.23-07.46.31:022][803]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_TV_Inst, compiling. 
+[2018.07.23-07.46.31:037][803]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_SlidingDoor_Mat_Inst, compiling. 
+[2018.07.23-07.46.31:048][803]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Glas_MAt_Inst, compiling. 
+[2018.07.23-07.46.31:059][803]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_FloorLamp_Mat_Inst, compiling. 
+[2018.07.23-07.46.31:068][803]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Shelving_Inst, compiling. 
+[2018.07.23-07.46.31:076][803]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Ceramic_Mat_Inst, compiling. 
+[2018.07.23-07.46.31:083][803]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_PlantLeaf_Mat_Inst, compiling. 
+[2018.07.23-07.46.31:091][803]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_PlantBark_Mat_Inst, compiling. 
+[2018.07.23-07.46.31:098][803]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_PlantPot_Mat_Inst, compiling. 
+[2018.07.23-07.46.31:106][803]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MI_Carptet_Mat_Inst, compiling. 
+[2018.07.23-07.46.31:114][803]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_DeskLamp_Mat_Inst, compiling. 
+[2018.07.23-07.46.31:122][803]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Statue_Inst, compiling. 
+[2018.07.23-07.46.31:128][803]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Painting_3, compiling. 
+[2018.07.23-07.46.31:133][803]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Curtain_MAT_Inst, compiling. 
+[2018.07.23-07.46.31:139][803]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Tiles_Mat_Inst, compiling. 
+[2018.07.23-07.46.31:146][803]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Railing_MAT_Inst, compiling. 
+[2018.07.23-07.46.31:152][803]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Wood_A_Master, compiling. 
+[2018.07.23-07.46.31:156][803]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Background_Mat, compiling. 
+[2018.07.23-07.46.31:161][803]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_RoundCeilingLight_Mat_LIT_Inst, compiling. 
+[2018.07.23-07.46.31:168][803]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MI_CineMat_CameraBody, compiling. 
+[2018.07.23-07.46.31:175][803]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MI_CineMat_CamViewFinder, compiling. 
+[2018.07.23-07.46.34:302][803]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.07.23-07.46.34:302][803]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.07.23-07.46.34:302][803]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.07.23-07.46.34:302][803]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.07.23-07.46.34:302][803]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.07.23-07.46.34:302][803]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.07.23-07.46.34:302][803]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.07.23-07.46.34:302][803]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.07.23-07.46.34:302][803]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.07.23-07.46.34:302][803]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.07.23-07.46.34:302][803]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.07.23-07.46.34:302][803]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.07.23-07.46.34:302][803]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.07.23-07.46.34:302][803]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.07.23-07.46.34:302][803]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.07.23-07.46.34:302][803]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.07.23-07.46.34:302][803]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.07.23-07.46.34:302][803]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.07.23-07.46.34:302][803]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.07.23-07.46.34:302][803]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.07.23-07.46.34:302][803]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.07.23-07.46.34:302][803]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.07.23-07.46.34:302][803]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.07.23-07.46.34:303][803]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.07.23-07.46.34:303][803]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.07.23-07.46.34:303][803]TextureStreamingBuild: Display: Compiling optional shaders took 3.399 seconds.
+[2018.07.23-07.46.34:644][803]LogLevel: Display: Export Material TexCoord Scales took 0.341 seconds.
+[2018.07.23-07.46.34:666][803]TextureStreamingBuild: Display: Build Texture Streaming took 0.022 seconds.
+[2018.07.23-07.46.34:689][803]LightingResults: New page: Lighting Build - Jul 23, 2018, 6:46:34 PM
+[2018.07.23-07.46.34:703][803]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.07.23-07.46.34:706][803]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.07.23-07.46.34:706][803]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.07.23-07.46.34:707][803]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.07.23-07.46.34:707][803]LogSwarmInterface: [TryOpenConnection] Local Process ID is 3836
+[2018.07.23-07.46.39:224][803]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.07.23-07.46.39:225][803]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.07.23-07.46.39:225][803]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.07.23-07.46.39:225][803]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.07.23-07.46.39:225][803]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.07.23-07.46.39:892][803]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.07.23-07.46.39:893][803]MapCheck: New page: _room_light - Jul 23, 2018, 6:46:39 PM
+[2018.07.23-07.46.40:186][803]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 293.058ms to complete.
+[2018.07.23-07.46.40:211][803]LogEditorBuildUtils: Build time 0:09
+[2018.07.23-07.47.28:519][ 18]Cmd: SELECT NONE
+[2018.07.23-07.51.51:167][556]Job is a success!
+[2018.07.23-07.51.51:260][557]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.23-07.51.51:379][557]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.021s
+[2018.07.23-07.51.51:379][557]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.07.23-07.51.51:379][557]LogVolumetricLightmapImport:      BrickData 20x5x5 = 0.0Mb
+[2018.07.23-07.51.51:379][557]LogVolumetricLightmapImport:      Bricks at Level
+[2018.07.23-07.51.51:380][557]LogVolumetricLightmapImport:          0: 25.0% covering 100.0% of volume
+[2018.07.23-07.51.51:380][557]LogVolumetricLightmapImport:          1: 25.0% covering 1.6% of volume
+[2018.07.23-07.51.51:380][557]LogVolumetricLightmapImport:          2: 50.0% covering 0.0% of volume
+[2018.07.23-07.51.53:530][557]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 1024X512)
+[2018.07.23-07.51.53:530][557]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2018.07.23-07.51.53:530][557]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2018.07.23-07.51.53:530][557]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 1024X512)
+[2018.07.23-07.51.53:530][557]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 1024X1024)
+[2018.07.23-07.51.53:530][557]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 512X256)
+[2018.07.23-07.51.53:530][557]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 1024X1024)
+[2018.07.23-07.51.53:530][557]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 512X512)
+[2018.07.23-07.51.53:530][557]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 512X512)
+[2018.07.23-07.51.53:711][557]LogTexture: Display: Building textures: ShadowMapTexture2D_7 (BGRA8, 32X512)
+[2018.07.23-07.51.53:711][557]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (BGRA8, 1024X512)
+[2018.07.23-07.51.53:736][557]Lightmass on LAPTOP-SNI5BBA7: 5:11 min total, 691 ms importing, 242 ms setup, 7.98 sec photons, 5:02 min processing, 0 ms extra exporting [106/106 mappings]. Threads: 20:11 min total, 14:47 min processing.
+[2018.07.23-07.51.53:796][557]LogStaticLightingSystem: Illumination: 5:19 min (1.87 sec encoding lightmaps, 175 ms encoding shadowmaps)
+[2018.07.23-07.51.53:796][557]LogStaticLightingSystem: Lightmap texture memory:  6.0 MB (3.3 MB streaming, 2.7 MB non-streaming), 6 textures
+[2018.07.23-07.51.53:796][557]LogStaticLightingSystem: Shadowmap texture memory: 2.8 MB (2.7 MB streaming, 0.1 MB non-streaming), 2 textures
+[2018.07.23-07.51.54:452][557]DumpUnbuiltLightIteractions
+[2018.07.23-07.51.54:452][557]Lights with unbuilt interactions: 0
+[2018.07.23-07.51.54:452][557]
+[2018.07.23-07.51.54:453][557]Primitives with unbuilt interactions: 0
+[2018.07.23-07.51.54:462][557]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.23-07.51.55:008][558]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.07.23-07.51.55:008][558]MapCheck: New page: _room_light - Jul 23, 2018, 6:51:55 PM
+[2018.07.23-07.51.55:081][558]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 72.224ms to complete.
+[2018.07.23-07.51.57:710][629]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.23-07.51.58:090][629]LogSavePackage: Save=215.44ms
+[2018.07.23-07.51.58:090][629]LogSavePackage: Moving '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Saved/_room_light693C32F34D26C85B0412608CF3F95504.tmp' to '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Content/Maps/_room_light.umap'
+[2018.07.23-07.51.58:102][629]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Content/Maps/_room_light.umap
+[2018.07.23-07.51.59:217][629]LogSavePackage: Save=1014.28ms
+[2018.07.23-07.51.59:218][629]LogSavePackage: Moving '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Saved/_room_light_BuiltDataE9A80ED84882F7513503489A00389B70.tmp' to '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Content/Maps/_room_light_BuiltData.uasset'
+[2018.07.23-07.51.59:220][629]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Content/Maps/_room_light_BuiltData.uasset
+[2018.07.23-07.52.02:069][708]Cmd: SELECT NONE
+[2018.07.23-07.52.03:940][759]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_CoffeeTable)
+[2018.07.23-07.52.05:509][759]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.23-07.52.07:511][806]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2018.07.23-07.52.08:346][824]Cmd: SELECT NONE
+[2018.07.23-07.53.10:611][903]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.23-07.53.10:721][908]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.23-07.53.10:909][908]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.23-07.53.11:012][908]PIE: New page: PIE session: _room_light (Jul 23, 2018, 6:53:11 PM)
+[2018.07.23-07.53.11:014][908]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0__room_light
+[2018.07.23-07.53.11:115][908]LogPlayLevel: PIE: StaticDuplicateObject took: (0.101847s)
+[2018.07.23-07.53.11:117][908]LogAIModule: Creating AISystem for world _room_light
+[2018.07.23-07.53.11:123][908]LogPlayLevel: PIE: World Init took: (0.007375s)
+[2018.07.23-07.53.11:124][908]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/_room_light._room_light to /Game/Maps/UEDPIE_0__room_light._room_light (0.109853s)
+[2018.07.23-07.53.11:213][908]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.23-07.53.11:275][908]LogInit: FAudioDevice initialized.
+[2018.07.23-07.53.11:389][908]LogLoad: Game class is 'GameModeBase'
+[2018.07.23-07.53.11:633][908]LogWorld: Bringing World /Game/Maps/UEDPIE_0__room_light._room_light up for play (max tick rate 60) at 2018.07.23-13.23.11
+[2018.07.23-07.53.11:666][908]LogWorld: Bringing up level for play took: 0.038718
+[2018.07.23-07.53.12:014][908]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0012 seconds. Added 11 classes and 0 folders.
+[2018.07.23-07.53.12:133][908]PIE: Play in editor start time for /Game/Maps/UEDPIE_0__room_light 1.495
+[2018.07.23-07.54.52:784][467]LogSavePackage: Save=111.17ms
+[2018.07.23-07.54.52:785][467]LogSavePackage: Moving '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Saved/SEQ_Demo_Map_Cam3717A8CC431C7F3D4ADCF1A752E180EB.tmp' to '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Content/Sequences/SEQ_Demo_Map_Cam.uasset'
+[2018.07.23-07.54.52:793][467]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Content/Sequences/SEQ_Demo_Map_Cam.uasset
+[2018.07.23-07.54.55:381][540]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.23-07.55.37:604][ 89]MapCheck: New page: Map Check
+[2018.07.23-07.55.37:616][ 89]Cmd: MAP REBUILD ALLVISIBLE
+[2018.07.23-07.55.37:616][ 89]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.07.23-07.55.37:936][ 89]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2018.07.23-07.55.37:951][ 89]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.07.23-07.55.37:951][ 89]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_WallPainExterior_MAT, compiling. 
+[2018.07.23-07.55.37:966][ 89]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_WoodFloor_MAT_Inst, compiling. 
+[2018.07.23-07.55.37:983][ 89]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.07.23-07.55.37:983][ 89]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.07.23-07.55.37:983][ 89]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MI_Couch_NOSSS_Mat_Inst, compiling. 
+[2018.07.23-07.55.38:003][ 89]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_WallPainInterior_MAT, compiling. 
+[2018.07.23-07.55.38:021][ 89]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Door_MAT_Inst, compiling. 
+[2018.07.23-07.55.38:034][ 89]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_CoffeTable_MAT_Inst, compiling. 
+[2018.07.23-07.55.38:045][ 89]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_TV_Inst, compiling. 
+[2018.07.23-07.55.38:056][ 89]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_SlidingDoor_Mat_Inst, compiling. 
+[2018.07.23-07.55.38:064][ 89]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Glas_MAt_Inst, compiling. 
+[2018.07.23-07.55.38:071][ 89]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_FloorLamp_Mat_Inst, compiling. 
+[2018.07.23-07.55.38:080][ 89]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Shelving_Inst, compiling. 
+[2018.07.23-07.55.38:087][ 89]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Ceramic_Mat_Inst, compiling. 
+[2018.07.23-07.55.38:095][ 89]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_PlantLeaf_Mat_Inst, compiling. 
+[2018.07.23-07.55.38:103][ 89]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_PlantBark_Mat_Inst, compiling. 
+[2018.07.23-07.55.38:110][ 89]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_PlantPot_Mat_Inst, compiling. 
+[2018.07.23-07.55.38:118][ 89]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MI_Carptet_Mat_Inst, compiling. 
+[2018.07.23-07.55.38:125][ 89]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_DeskLamp_Mat_Inst, compiling. 
+[2018.07.23-07.55.38:131][ 89]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Statue_Inst, compiling. 
+[2018.07.23-07.55.38:138][ 89]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Painting_3, compiling. 
+[2018.07.23-07.55.38:144][ 89]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Curtain_MAT_Inst, compiling. 
+[2018.07.23-07.55.38:152][ 89]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Tiles_Mat_Inst, compiling. 
+[2018.07.23-07.55.38:158][ 89]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Railing_MAT_Inst, compiling. 
+[2018.07.23-07.55.38:165][ 89]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Wood_A_Master, compiling. 
+[2018.07.23-07.55.38:171][ 89]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Background_Mat, compiling. 
+[2018.07.23-07.55.38:178][ 89]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_RoundCeilingLight_Mat_LIT_Inst, compiling. 
+[2018.07.23-07.55.38:185][ 89]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MI_CineMat_CameraBody, compiling. 
+[2018.07.23-07.55.38:192][ 89]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MI_CineMat_CamViewFinder, compiling. 
+[2018.07.23-07.55.41:607][ 89]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.07.23-07.55.41:607][ 89]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.07.23-07.55.41:607][ 89]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.07.23-07.55.41:607][ 89]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.07.23-07.55.41:607][ 89]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.07.23-07.55.41:607][ 89]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.07.23-07.55.41:607][ 89]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.07.23-07.55.41:607][ 89]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.07.23-07.55.41:607][ 89]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.07.23-07.55.41:607][ 89]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.07.23-07.55.41:607][ 89]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.07.23-07.55.41:607][ 89]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.07.23-07.55.41:607][ 89]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.07.23-07.55.41:607][ 89]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.07.23-07.55.41:607][ 89]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.07.23-07.55.41:607][ 89]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.07.23-07.55.41:607][ 89]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.07.23-07.55.41:607][ 89]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.07.23-07.55.41:607][ 89]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.07.23-07.55.41:607][ 89]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.07.23-07.55.41:607][ 89]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.07.23-07.55.41:607][ 89]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.07.23-07.55.41:607][ 89]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.07.23-07.55.41:607][ 89]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.07.23-07.55.41:607][ 89]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.07.23-07.55.41:607][ 89]TextureStreamingBuild: Display: Compiling optional shaders took 3.681 seconds.
+[2018.07.23-07.55.41:852][ 89]LogLevel: Display: Export Material TexCoord Scales took 0.244 seconds.
+[2018.07.23-07.55.41:866][ 89]TextureStreamingBuild: Display: Build Texture Streaming took 0.014 seconds.
+[2018.07.23-07.55.41:878][ 89]LightingResults: New page: Lighting Build - Jul 23, 2018, 6:55:41 PM
+[2018.07.23-07.55.41:888][ 89]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.07.23-07.55.41:890][ 89]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.07.23-07.55.41:890][ 89]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.07.23-07.55.41:891][ 89]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.07.23-07.55.41:891][ 89]LogSwarmInterface: [TryOpenConnection] Local Process ID is 3836
+[2018.07.23-07.55.46:413][ 89]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.07.23-07.55.46:413][ 89]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.07.23-07.55.46:413][ 89]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.07.23-07.55.46:414][ 89]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.07.23-07.55.46:414][ 89]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.07.23-07.55.47:053][ 89]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.07.23-07.55.47:054][ 89]MapCheck: New page: _room_light - Jul 23, 2018, 6:55:47 PM
+[2018.07.23-07.55.47:128][ 89]MapCheck: Error: WorldSettings Maps need lighting rebuilt 
+[2018.07.23-07.55.47:293][ 89]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 239.09ms to complete.
+[2018.07.23-07.55.47:317][ 89]LogEditorBuildUtils: Build time 0:09
+[2018.07.23-07.55.47:343][ 89]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.23-07.56.01:297][401]LogSlate: Window 'Message Log' being destroyed
+[2018.07.23-07.56.01:303][401]LogSlate: Window 'Message Log' being destroyed
+[2018.07.23-07.56.26:863][ 32]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.23-08.02.20:675][965]Job is a success!
+[2018.07.23-08.02.20:802][966]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.23-08.02.20:861][966]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.008s
+[2018.07.23-08.02.20:861][966]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.07.23-08.02.20:861][966]LogVolumetricLightmapImport:      BrickData 20x5x5 = 0.0Mb
+[2018.07.23-08.02.20:861][966]LogVolumetricLightmapImport:      Bricks at Level
+[2018.07.23-08.02.20:861][966]LogVolumetricLightmapImport:          0: 25.0% covering 100.0% of volume
+[2018.07.23-08.02.20:861][966]LogVolumetricLightmapImport:          1: 25.0% covering 1.6% of volume
+[2018.07.23-08.02.20:861][966]LogVolumetricLightmapImport:          2: 50.0% covering 0.0% of volume
+[2018.07.23-08.02.22:963][966]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 1024X512)
+[2018.07.23-08.02.22:963][966]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2018.07.23-08.02.22:964][966]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2018.07.23-08.02.22:964][966]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 1024X512)
+[2018.07.23-08.02.22:964][966]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 1024X1024)
+[2018.07.23-08.02.22:964][966]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 1024X1024)
+[2018.07.23-08.02.22:964][966]LogTexture: Display: Building textures: SkyOcclusion1_3 (AutoDXT, 512X256)
+[2018.07.23-08.02.22:964][966]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 512X512)
+[2018.07.23-08.02.22:964][966]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 512X512)
+[2018.07.23-08.02.23:194][966]LogTexture: Display: Building textures: ShadowMapTexture2D_9 (BGRA8, 32X512)
+[2018.07.23-08.02.23:194][966]LogTexture: Display: Building textures: ShadowMapTexture2D_8 (BGRA8, 1024X512)
+[2018.07.23-08.02.23:232][966]Lightmass on LAPTOP-SNI5BBA7: 6:34 min total, 736 ms importing, 619 ms setup, 8.65 sec photons, 6:24 min processing, 0 ms extra exporting [106/106 mappings]. Threads: 25:37 min total, 18:49 min processing.
+[2018.07.23-08.02.23:248][966]LogStaticLightingSystem: Illumination: 6:41 min (1.99 sec encoding lightmaps, 225 ms encoding shadowmaps)
+[2018.07.23-08.02.23:248][966]LogStaticLightingSystem: Lightmap texture memory:  6.0 MB (3.3 MB streaming, 2.7 MB non-streaming), 6 textures
+[2018.07.23-08.02.23:248][966]LogStaticLightingSystem: Shadowmap texture memory: 2.8 MB (2.7 MB streaming, 0.1 MB non-streaming), 2 textures
+[2018.07.23-08.02.28:713][966]DumpUnbuiltLightIteractions
+[2018.07.23-08.02.28:713][966]Lights with unbuilt interactions: 0
+[2018.07.23-08.02.28:713][966]
+[2018.07.23-08.02.28:713][966]Primitives with unbuilt interactions: 0
+[2018.07.23-08.02.28:723][966]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.23-08.02.29:735][967]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.07.23-08.02.29:735][967]MapCheck: New page: _room_light - Jul 23, 2018, 7:02:29 PM
+[2018.07.23-08.02.29:931][967]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 195.783ms to complete.
+[2018.07.23-08.02.33:188][ 53]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.23-08.02.33:413][ 53]LogSavePackage: Save=166.62ms
+[2018.07.23-08.02.33:413][ 53]LogSavePackage: Moving '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Saved/_room_light0CB18EE64BDECA581DB5A9A4F7025E43.tmp' to '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Content/Maps/_room_light.umap'
+[2018.07.23-08.02.33:418][ 53]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Content/Maps/_room_light.umap
+[2018.07.23-08.02.34:684][ 53]LogSavePackage: Save=1183.46ms
+[2018.07.23-08.02.34:684][ 53]LogSavePackage: Moving '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Saved/_room_light_BuiltDataAB1E677A400E11E38ECD7691411909CD.tmp' to '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Content/Maps/_room_light_BuiltData.uasset'
+[2018.07.23-08.02.34:689][ 53]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Content/Maps/_room_light_BuiltData.uasset
+[2018.07.23-08.02.42:691][270]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Vase_1)
+[2018.07.23-08.02.49:250][438]Cmd: SELECT NONE
+[2018.07.23-08.03.04:201][900]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.23-08.03.42:572][907]LogSavePackage: Save=95.76ms
+[2018.07.23-08.03.42:572][907]LogSavePackage: Moving '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Saved/SEQ_Demo_Map_Cam69FED91D4653ED9127B8E1928C2A0784.tmp' to '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Content/Sequences/SEQ_Demo_Map_Cam.uasset'
+[2018.07.23-08.03.42:581][907]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Content/Sequences/SEQ_Demo_Map_Cam.uasset
+[2018.07.23-08.03.43:738][940]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.23-08.03.43:900][951]MapCheck: New page: Map Check
+[2018.07.23-08.03.43:915][951]Cmd: MAP REBUILD ALLVISIBLE
+[2018.07.23-08.03.43:915][951]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.07.23-08.03.44:220][951]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2018.07.23-08.03.44:230][951]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_WallPainExterior_MAT, compiling. 
+[2018.07.23-08.03.44:238][951]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.07.23-08.03.44:238][951]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.07.23-08.03.44:238][951]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_WoodFloor_MAT_Inst, compiling. 
+[2018.07.23-08.03.44:249][951]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MI_Couch_NOSSS_Mat_Inst, compiling. 
+[2018.07.23-08.03.44:258][951]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_WallPainInterior_MAT, compiling. 
+[2018.07.23-08.03.44:268][951]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.07.23-08.03.44:268][951]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Door_MAT_Inst, compiling. 
+[2018.07.23-08.03.44:281][951]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_CoffeTable_MAT_Inst, compiling. 
+[2018.07.23-08.03.44:291][951]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_TV_Inst, compiling. 
+[2018.07.23-08.03.44:300][951]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_SlidingDoor_Mat_Inst, compiling. 
+[2018.07.23-08.03.44:309][951]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Glas_MAt_Inst, compiling. 
+[2018.07.23-08.03.44:316][951]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_FloorLamp_Mat_Inst, compiling. 
+[2018.07.23-08.03.44:323][951]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Shelving_Inst, compiling. 
+[2018.07.23-08.03.44:331][951]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Ceramic_Mat_Inst, compiling. 
+[2018.07.23-08.03.44:338][951]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_PlantLeaf_Mat_Inst, compiling. 
+[2018.07.23-08.03.44:347][951]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_PlantBark_Mat_Inst, compiling. 
+[2018.07.23-08.03.44:354][951]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_PlantPot_Mat_Inst, compiling. 
+[2018.07.23-08.03.44:361][951]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MI_Carptet_Mat_Inst, compiling. 
+[2018.07.23-08.03.44:370][951]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_DeskLamp_Mat_Inst, compiling. 
+[2018.07.23-08.03.44:375][951]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Statue_Inst, compiling. 
+[2018.07.23-08.03.44:381][951]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Painting_3, compiling. 
+[2018.07.23-08.03.44:386][951]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Curtain_MAT_Inst, compiling. 
+[2018.07.23-08.03.44:393][951]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Tiles_Mat_Inst, compiling. 
+[2018.07.23-08.03.44:399][951]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Railing_MAT_Inst, compiling. 
+[2018.07.23-08.03.44:404][951]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Wood_A_Master, compiling. 
+[2018.07.23-08.03.44:409][951]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Background_Mat, compiling. 
+[2018.07.23-08.03.44:413][951]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_RoundCeilingLight_Mat_LIT_Inst, compiling. 
+[2018.07.23-08.03.44:419][951]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MI_CineMat_CameraBody, compiling. 
+[2018.07.23-08.03.44:424][951]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MI_CineMat_CamViewFinder, compiling. 
+[2018.07.23-08.03.47:824][951]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.07.23-08.03.47:824][951]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.07.23-08.03.47:824][951]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.07.23-08.03.47:824][951]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.07.23-08.03.47:824][951]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.07.23-08.03.47:824][951]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.07.23-08.03.47:824][951]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.07.23-08.03.47:824][951]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.07.23-08.03.47:824][951]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.07.23-08.03.47:824][951]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.07.23-08.03.47:824][951]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.07.23-08.03.47:824][951]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.07.23-08.03.47:824][951]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.07.23-08.03.47:824][951]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.07.23-08.03.47:824][951]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.07.23-08.03.47:824][951]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.07.23-08.03.47:824][951]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.07.23-08.03.47:824][951]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.07.23-08.03.47:824][951]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.07.23-08.03.47:824][951]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.07.23-08.03.47:824][951]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.07.23-08.03.47:824][951]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.07.23-08.03.47:824][951]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.07.23-08.03.47:824][951]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.07.23-08.03.47:824][951]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.07.23-08.03.47:824][951]TextureStreamingBuild: Display: Compiling optional shaders took 3.610 seconds.
+[2018.07.23-08.03.48:097][951]LogLevel: Display: Export Material TexCoord Scales took 0.273 seconds.
+[2018.07.23-08.03.48:114][951]TextureStreamingBuild: Display: Build Texture Streaming took 0.017 seconds.
+[2018.07.23-08.03.48:127][951]LightingResults: New page: Lighting Build - Jul 23, 2018, 7:03:48 PM
+[2018.07.23-08.03.48:134][951]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.07.23-08.03.48:137][951]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.07.23-08.03.48:137][951]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.07.23-08.03.48:137][951]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.07.23-08.03.48:137][951]LogSwarmInterface: [TryOpenConnection] Local Process ID is 3836
+[2018.07.23-08.03.52:656][951]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.07.23-08.03.52:656][951]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.07.23-08.03.52:656][951]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.07.23-08.03.52:656][951]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.07.23-08.03.52:656][951]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.07.23-08.03.53:059][951]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.07.23-08.03.53:059][951]MapCheck: New page: _room_light - Jul 23, 2018, 7:03:53 PM
+[2018.07.23-08.03.53:082][951]MapCheck: Error: WorldSettings Maps need lighting rebuilt 
+[2018.07.23-08.03.53:201][951]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 141.443ms to complete.
+[2018.07.23-08.03.53:224][951]LogEditorBuildUtils: Build time 0:09
+[2018.07.23-08.03.53:263][951]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.23-08.04.05:085][238]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.23-08.04.05:221][243]LogSlate: Window 'Message Log' being destroyed
+[2018.07.23-08.04.05:232][243]LogSlate: Window 'Message Log' being destroyed
+[2018.07.23-08.04.06:866][290]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.23-08.11.01:527][739]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.23-08.12.33:747][342]LogSavePackage: Save=196.90ms
+[2018.07.23-08.12.33:747][342]LogSavePackage: Moving '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Saved/_room_light_Auto1D7890FE84C302A4EDB8F2D9B5E528EEA.tmp' to '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Saved/Autosaves/Game/Maps/_room_light_Auto1.umap'
+[2018.07.23-08.12.33:749][342]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Saved/Autosaves/Game/Maps/_room_light_Auto1.umap
+[2018.07.23-08.12.33:755][342]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/_room_light' took 0.369
+[2018.07.23-08.12.33:755][342]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.369
+[2018.07.23-08.12.41:073][550]Job is a success!
+[2018.07.23-08.12.41:170][551]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.23-08.12.41:249][551]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.009s
+[2018.07.23-08.12.41:249][551]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.07.23-08.12.41:249][551]LogVolumetricLightmapImport:      BrickData 20x5x5 = 0.0Mb
+[2018.07.23-08.12.41:249][551]LogVolumetricLightmapImport:      Bricks at Level
+[2018.07.23-08.12.41:249][551]LogVolumetricLightmapImport:          0: 25.0% covering 100.0% of volume
+[2018.07.23-08.12.41:249][551]LogVolumetricLightmapImport:          1: 25.0% covering 1.6% of volume
+[2018.07.23-08.12.41:249][551]LogVolumetricLightmapImport:          2: 50.0% covering 0.0% of volume
+[2018.07.23-08.12.43:291][551]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 1024X512)
+[2018.07.23-08.12.43:291][551]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2018.07.23-08.12.43:291][551]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2018.07.23-08.12.43:291][551]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 1024X512)
+[2018.07.23-08.12.43:291][551]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 1024X1024)
+[2018.07.23-08.12.43:291][551]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 1024X1024)
+[2018.07.23-08.12.43:291][551]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 512X256)
+[2018.07.23-08.12.43:291][551]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 512X512)
+[2018.07.23-08.12.43:291][551]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 512X512)
+[2018.07.23-08.12.43:492][551]LogTexture: Display: Building textures: ShadowMapTexture2D_11 (BGRA8, 32X512)
+[2018.07.23-08.12.43:542][551]LogTexture: Display: Building textures: ShadowMapTexture2D_10 (BGRA8, 1024X512)
+[2018.07.23-08.12.43:568][551]Lightmass on LAPTOP-SNI5BBA7: 8:49 min total, 819 ms importing, 275 ms setup, 9.23 sec photons, 8:38 min processing, 0 ms extra exporting [106/106 mappings]. Threads: 34:35 min total, 25:32 min processing.
+[2018.07.23-08.12.43:583][551]LogStaticLightingSystem: Illumination: 8:55 min (1.92 sec encoding lightmaps, 244 ms encoding shadowmaps)
+[2018.07.23-08.12.43:583][551]LogStaticLightingSystem: Lightmap texture memory:  6.0 MB (3.3 MB streaming, 2.7 MB non-streaming), 6 textures
+[2018.07.23-08.12.43:583][551]LogStaticLightingSystem: Shadowmap texture memory: 2.8 MB (2.7 MB streaming, 0.1 MB non-streaming), 2 textures
+[2018.07.23-08.12.44:031][551]DumpUnbuiltLightIteractions
+[2018.07.23-08.12.44:031][551]Lights with unbuilt interactions: 0
+[2018.07.23-08.12.44:031][551]
+[2018.07.23-08.12.44:031][551]Primitives with unbuilt interactions: 0
+[2018.07.23-08.12.44:037][551]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.23-08.12.44:558][552]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.07.23-08.12.44:558][552]MapCheck: New page: _room_light - Jul 23, 2018, 7:12:44 PM
+[2018.07.23-08.12.44:637][552]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 78.359ms to complete.
+[2018.07.23-08.13.00:809][ 53]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.23-08.13.05:459][280]LogSavePackage: Save=38.42ms
+[2018.07.23-08.13.05:460][280]LogSavePackage: Moving '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Saved/SEQ_Demo_Map_Cam4AF15D484A542BF4300D79ADEA4B4521.tmp' to '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Content/Sequences/SEQ_Demo_Map_Cam.uasset'
+[2018.07.23-08.13.05:465][280]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Content/Sequences/SEQ_Demo_Map_Cam.uasset
+[2018.07.23-08.13.06:513][311]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.23-08.13.33:582][422]LogSavePackage: Save=28.00ms
+[2018.07.23-08.13.33:583][422]LogSavePackage: Moving '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Saved/SEQ_Demo_Map_Cam78145AF54B4D3D13A293CAAAF35BD98B.tmp' to '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Content/Sequences/SEQ_Demo_Map_Cam.uasset'
+[2018.07.23-08.13.33:584][422]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Content/Sequences/SEQ_Demo_Map_Cam.uasset
+[2018.07.23-08.13.42:796][677]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.23-08.13.48:974][856]MapCheck: New page: Map Check
+[2018.07.23-08.13.48:986][856]Cmd: MAP REBUILD ALLVISIBLE
+[2018.07.23-08.13.48:986][856]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.07.23-08.13.49:257][856]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2018.07.23-08.13.49:263][856]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_WallPainExterior_MAT, compiling. 
+[2018.07.23-08.13.49:268][856]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.07.23-08.13.49:268][856]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_WoodFloor_MAT_Inst, compiling. 
+[2018.07.23-08.13.49:276][856]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.07.23-08.13.49:276][856]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.07.23-08.13.49:276][856]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MI_Couch_NOSSS_Mat_Inst, compiling. 
+[2018.07.23-08.13.49:284][856]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_WallPainInterior_MAT, compiling. 
+[2018.07.23-08.13.49:291][856]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Door_MAT_Inst, compiling. 
+[2018.07.23-08.13.49:298][856]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_CoffeTable_MAT_Inst, compiling. 
+[2018.07.23-08.13.49:306][856]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_TV_Inst, compiling. 
+[2018.07.23-08.13.49:314][856]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_SlidingDoor_Mat_Inst, compiling. 
+[2018.07.23-08.13.49:322][856]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Glas_MAt_Inst, compiling. 
+[2018.07.23-08.13.49:330][856]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_FloorLamp_Mat_Inst, compiling. 
+[2018.07.23-08.13.49:338][856]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Shelving_Inst, compiling. 
+[2018.07.23-08.13.49:345][856]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Ceramic_Mat_Inst, compiling. 
+[2018.07.23-08.13.49:354][856]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_PlantLeaf_Mat_Inst, compiling. 
+[2018.07.23-08.13.49:363][856]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_PlantBark_Mat_Inst, compiling. 
+[2018.07.23-08.13.49:370][856]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_PlantPot_Mat_Inst, compiling. 
+[2018.07.23-08.13.49:379][856]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MI_Carptet_Mat_Inst, compiling. 
+[2018.07.23-08.13.49:386][856]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_DeskLamp_Mat_Inst, compiling. 
+[2018.07.23-08.13.49:393][856]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Statue_Inst, compiling. 
+[2018.07.23-08.13.49:398][856]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Painting_3, compiling. 
+[2018.07.23-08.13.49:406][856]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Curtain_MAT_Inst, compiling. 
+[2018.07.23-08.13.49:413][856]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Tiles_Mat_Inst, compiling. 
+[2018.07.23-08.13.49:421][856]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Railing_MAT_Inst, compiling. 
+[2018.07.23-08.13.49:429][856]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Wood_A_Master, compiling. 
+[2018.07.23-08.13.49:436][856]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Background_Mat, compiling. 
+[2018.07.23-08.13.49:443][856]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_RoundCeilingLight_Mat_LIT_Inst, compiling. 
+[2018.07.23-08.13.49:451][856]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MI_CineMat_CameraBody, compiling. 
+[2018.07.23-08.13.49:459][856]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MI_CineMat_CamViewFinder, compiling. 
+[2018.07.23-08.13.53:326][856]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.07.23-08.13.53:326][856]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.07.23-08.13.53:326][856]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.07.23-08.13.53:326][856]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.07.23-08.13.53:326][856]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.07.23-08.13.53:326][856]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.07.23-08.13.53:326][856]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.07.23-08.13.53:326][856]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.07.23-08.13.53:326][856]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.07.23-08.13.53:326][856]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.07.23-08.13.53:326][856]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.07.23-08.13.53:326][856]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.07.23-08.13.53:326][856]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.07.23-08.13.53:327][856]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.07.23-08.13.53:327][856]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.07.23-08.13.53:327][856]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.07.23-08.13.53:327][856]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.07.23-08.13.53:327][856]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.07.23-08.13.53:327][856]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.07.23-08.13.53:327][856]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.07.23-08.13.53:327][856]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.07.23-08.13.53:327][856]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.07.23-08.13.53:327][856]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.07.23-08.13.53:327][856]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.07.23-08.13.53:327][856]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.07.23-08.13.53:327][856]TextureStreamingBuild: Display: Compiling optional shaders took 4.074 seconds.
+[2018.07.23-08.13.53:611][856]LogLevel: Display: Export Material TexCoord Scales took 0.285 seconds.
+[2018.07.23-08.13.53:626][856]TextureStreamingBuild: Display: Build Texture Streaming took 0.014 seconds.
+[2018.07.23-08.13.53:639][856]LightingResults: New page: Lighting Build - Jul 23, 2018, 7:13:53 PM
+[2018.07.23-08.13.53:647][856]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.07.23-08.13.53:651][856]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.07.23-08.13.53:651][856]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.07.23-08.13.53:652][856]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.07.23-08.13.53:652][856]LogSwarmInterface: [TryOpenConnection] Local Process ID is 3836
+[2018.07.23-08.13.58:168][856]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.07.23-08.13.58:168][856]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.07.23-08.13.58:168][856]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.07.23-08.13.58:168][856]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.07.23-08.13.58:168][856]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.07.23-08.13.58:410][856]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.07.23-08.13.58:410][856]MapCheck: New page: _room_light - Jul 23, 2018, 7:13:58 PM
+[2018.07.23-08.13.58:410][856]MapCheck: Error: WorldSettings Maps need lighting rebuilt 
+[2018.07.23-08.13.58:476][856]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 66.251ms to complete.
+[2018.07.23-08.13.58:499][856]LogEditorBuildUtils: Build time 0:09
+[2018.07.23-08.14.03:315][947]LogSlate: Window 'Message Log' being destroyed
+[2018.07.23-08.14.03:321][947]LogSlate: Window 'Message Log' being destroyed
+[2018.07.23-08.22.37:497][758]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.23-08.22.37:946][758]LogSavePackage: Save=344.99ms
+[2018.07.23-08.22.37:947][758]LogSavePackage: Moving '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Saved/_room_light_Auto2ACAB2E7E4CAFDEA62027F18211D92533.tmp' to '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Saved/Autosaves/Game/Maps/_room_light_Auto2.umap'
+[2018.07.23-08.22.37:949][758]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Saved/Autosaves/Game/Maps/_room_light_Auto2.umap
+[2018.07.23-08.22.37:955][758]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/_room_light' took 0.411
+[2018.07.23-08.22.37:955][758]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.411
+[2018.07.23-08.22.37:958][758]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Maps/_room_light_BuiltData] ([1] browsable assets)...
+[2018.07.23-08.22.37:959][758]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/_room_light_BuiltData]
+[2018.07.23-08.22.38:671][758]LogSavePackage: Save=681.97ms
+[2018.07.23-08.22.38:672][758]LogSavePackage: Moving '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Saved/_room_light_BuiltData_Auto2D554677D4D7EDCCC8541D78678796709.tmp' to '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Saved/Autosaves/Game/Maps/_room_light_BuiltData_Auto2.uasset'
+[2018.07.23-08.22.38:674][758]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Saved/Autosaves/Game/Maps/_room_light_BuiltData_Auto2.uasset
+[2018.07.23-08.22.38:674][758]LogFileHelpers: Auto-saving content packages took 0.718
+[2018.07.23-08.23.37:652][342]Job is a success!
+[2018.07.23-08.23.37:756][343]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.23-08.23.37:837][343]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.009s
+[2018.07.23-08.23.37:837][343]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.07.23-08.23.37:837][343]LogVolumetricLightmapImport:      BrickData 20x5x5 = 0.0Mb
+[2018.07.23-08.23.37:837][343]LogVolumetricLightmapImport:      Bricks at Level
+[2018.07.23-08.23.37:838][343]LogVolumetricLightmapImport:          0: 25.0% covering 100.0% of volume
+[2018.07.23-08.23.37:838][343]LogVolumetricLightmapImport:          1: 25.0% covering 1.6% of volume
+[2018.07.23-08.23.37:838][343]LogVolumetricLightmapImport:          2: 50.0% covering 0.0% of volume
+[2018.07.23-08.23.40:195][343]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 1024X512)
+[2018.07.23-08.23.40:195][343]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2018.07.23-08.23.40:195][343]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2018.07.23-08.23.40:195][343]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 1024X512)
+[2018.07.23-08.23.40:195][343]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 1024X1024)
+[2018.07.23-08.23.40:195][343]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 1024X1024)
+[2018.07.23-08.23.40:195][343]LogTexture: Display: Building textures: SkyOcclusion1_3 (AutoDXT, 512X256)
+[2018.07.23-08.23.40:195][343]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 512X512)
+[2018.07.23-08.23.40:195][343]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 512X512)
+[2018.07.23-08.23.40:744][343]LogTexture: Display: Building textures: ShadowMapTexture2D_13 (BGRA8, 32X512)
+[2018.07.23-08.23.40:744][343]LogTexture: Display: Building textures: ShadowMapTexture2D_12 (BGRA8, 1024X512)
+[2018.07.23-08.23.40:774][343]Lightmass on LAPTOP-SNI5BBA7: 9:41 min total, 220 ms importing, 67 ms setup, 7.84 sec photons, 9:33 min processing, 0 ms extra exporting [106/106 mappings]. Threads: 38:12 min total, 28:10 min processing.
+[2018.07.23-08.23.40:789][343]LogStaticLightingSystem: Illumination: 9:47 min (2.21 sec encoding lightmaps, 543 ms encoding shadowmaps)
+[2018.07.23-08.23.40:790][343]LogStaticLightingSystem: Lightmap texture memory:  6.0 MB (3.3 MB streaming, 2.7 MB non-streaming), 6 textures
+[2018.07.23-08.23.40:790][343]LogStaticLightingSystem: Shadowmap texture memory: 2.8 MB (2.7 MB streaming, 0.1 MB non-streaming), 2 textures
+[2018.07.23-08.23.41:584][343]DumpUnbuiltLightIteractions
+[2018.07.23-08.23.41:584][343]Lights with unbuilt interactions: 0
+[2018.07.23-08.23.41:584][343]
+[2018.07.23-08.23.41:584][343]Primitives with unbuilt interactions: 0
+[2018.07.23-08.23.41:592][343]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.23-08.23.42:076][344]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.07.23-08.23.42:076][344]MapCheck: New page: _room_light - Jul 23, 2018, 7:23:42 PM
+[2018.07.23-08.23.42:148][344]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 71.584ms to complete.
+[2018.07.23-08.32.43:263][407]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.23-08.32.43:442][407]LogSavePackage: Save=98.74ms
+[2018.07.23-08.32.43:442][407]LogSavePackage: Moving '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Saved/_room_light_Auto3CD6F94C543FD3C7EDE7F328B3B83E7CE.tmp' to '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Saved/Autosaves/Game/Maps/_room_light_Auto3.umap'
+[2018.07.23-08.32.43:444][407]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Saved/Autosaves/Game/Maps/_room_light_Auto3.umap
+[2018.07.23-08.32.43:447][407]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/_room_light' took 0.139
+[2018.07.23-08.32.43:447][407]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.139
+[2018.07.23-08.32.43:450][407]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Maps/_room_light_BuiltData] ([1] browsable assets)...
+[2018.07.23-08.32.43:451][407]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/_room_light_BuiltData]
+[2018.07.23-08.32.43:613][407]LogSavePackage: Save=65.55ms
+[2018.07.23-08.32.43:613][407]LogSavePackage: Moving '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Saved/_room_light_BuiltData_Auto3B9E4904C45C010C9BA24A593C11B5499.tmp' to '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Saved/Autosaves/Game/Maps/_room_light_BuiltData_Auto3.uasset'
+[2018.07.23-08.32.43:616][407]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Saved/Autosaves/Game/Maps/_room_light_BuiltData_Auto3.uasset
+[2018.07.23-08.32.43:616][407]LogFileHelpers: Auto-saving content packages took 0.167
+[2018.07.23-08.33.49:676][352]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.23-08.33.49:820][352]LogSavePackage: Save=96.49ms
+[2018.07.23-08.33.49:820][352]LogSavePackage: Moving '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Saved/_room_light9B74C9B649EC7DA18B26D0B0C74DC4FA.tmp' to '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Content/Maps/_room_light.umap'
+[2018.07.23-08.33.49:825][352]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Content/Maps/_room_light.umap
+[2018.07.23-08.33.50:462][352]LogSavePackage: Save=599.42ms
+[2018.07.23-08.33.50:462][352]LogSavePackage: Moving '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Saved/_room_light_BuiltData8A00922C4DCD79B63191B2B20655EEF2.tmp' to '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Content/Maps/_room_light_BuiltData.uasset'
+[2018.07.23-08.33.50:466][352]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Content/Maps/_room_light_BuiltData.uasset
+[2018.07.23-08.33.52:939][425]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.23-08.33.53:028][429]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.23-08.33.53:049][429]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.23-08.33.53:049][429]PIE: New page: PIE session: _room_light (Jul 23, 2018, 7:33:53 PM)
+[2018.07.23-08.33.53:050][429]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0__room_light
+[2018.07.23-08.33.53:058][429]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008873s)
+[2018.07.23-08.33.53:059][429]LogAIModule: Creating AISystem for world _room_light
+[2018.07.23-08.33.53:059][429]LogPlayLevel: PIE: World Init took: (0.000834s)
+[2018.07.23-08.33.53:059][429]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/_room_light._room_light to /Game/Maps/UEDPIE_0__room_light._room_light (0.009909s)
+[2018.07.23-08.33.53:134][429]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.23-08.33.53:154][429]LogInit: FAudioDevice initialized.
+[2018.07.23-08.33.53:198][429]LogLoad: Game class is 'GameModeBase'
+[2018.07.23-08.33.53:204][429]LogWorld: Bringing World /Game/Maps/UEDPIE_0__room_light._room_light up for play (max tick rate 0) at 2018.07.23-14.03.53
+[2018.07.23-08.33.53:208][429]LogWorld: Bringing up level for play took: 0.008730
+[2018.07.23-08.33.53:212][429]PIE: Play in editor start time for /Game/Maps/UEDPIE_0__room_light 0.573
+[2018.07.23-08.34.55:334][556]LogSavePackage: Save=23.74ms
+[2018.07.23-08.34.55:334][556]LogSavePackage: Moving '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Saved/SEQ_Demo_Map_Cam56FF0C9E4C986AE5904C74BFBDD1E5CD.tmp' to '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Content/Sequences/SEQ_Demo_Map_Cam.uasset'
+[2018.07.23-08.34.55:338][556]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Content/Sequences/SEQ_Demo_Map_Cam.uasset
+[2018.07.23-08.34.57:002][611]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.23-08.35.24:233][432]LogSavePackage: Save=57.08ms
+[2018.07.23-08.35.24:233][432]LogSavePackage: Moving '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Saved/SEQ_Demo_Map_Cam6ABB1A9D43A070B76C8C3CACC2173169.tmp' to '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Content/Sequences/SEQ_Demo_Map_Cam.uasset'
+[2018.07.23-08.35.24:235][432]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Content/Sequences/SEQ_Demo_Map_Cam.uasset
+[2018.07.23-08.36.23:006][ 71]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.23-08.36.23:235][ 71]LogSavePackage: Save=156.30ms
+[2018.07.23-08.36.23:235][ 71]LogSavePackage: Moving '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Saved/_room_light3D71D6E94279AAFFAD76F6A04F83E4B3.tmp' to '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Content/Maps/_room_light.umap'
+[2018.07.23-08.36.23:239][ 71]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Content/Maps/_room_light.umap
+[2018.07.23-08.36.24:043][ 71]LogSavePackage: Save=754.07ms
+[2018.07.23-08.36.24:043][ 71]LogSavePackage: Moving '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Saved/_room_light_BuiltData45824C9A441D4F1A1AD5EF80DF8E4690.tmp' to '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Content/Maps/_room_light_BuiltData.uasset'
+[2018.07.23-08.36.24:045][ 71]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Content/Maps/_room_light_BuiltData.uasset
+[2018.07.23-08.36.26:937][148]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.23-08.36.27:028][153]MapCheck: New page: Map Check
+[2018.07.23-08.36.27:042][153]Cmd: MAP REBUILD ALLVISIBLE
+[2018.07.23-08.36.27:043][153]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.07.23-08.36.27:221][153]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2018.07.23-08.36.27:228][153]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.07.23-08.36.27:228][153]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_WallPainExterior_MAT, compiling. 
+[2018.07.23-08.36.27:235][153]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_WoodFloor_MAT_Inst, compiling. 
+[2018.07.23-08.36.27:244][153]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.07.23-08.36.27:244][153]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MI_Couch_NOSSS_Mat_Inst, compiling. 
+[2018.07.23-08.36.27:254][153]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.07.23-08.36.27:254][153]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_WallPainInterior_MAT, compiling. 
+[2018.07.23-08.36.27:262][153]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Door_MAT_Inst, compiling. 
+[2018.07.23-08.36.27:272][153]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_CoffeTable_MAT_Inst, compiling. 
+[2018.07.23-08.36.27:281][153]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_TV_Inst, compiling. 
+[2018.07.23-08.36.27:290][153]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_SlidingDoor_Mat_Inst, compiling. 
+[2018.07.23-08.36.27:300][153]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Glas_MAt_Inst, compiling. 
+[2018.07.23-08.36.27:309][153]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_FloorLamp_Mat_Inst, compiling. 
+[2018.07.23-08.36.27:318][153]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Shelving_Inst, compiling. 
+[2018.07.23-08.36.27:327][153]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Ceramic_Mat_Inst, compiling. 
+[2018.07.23-08.36.27:337][153]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_PlantLeaf_Mat_Inst, compiling. 
+[2018.07.23-08.36.27:346][153]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_PlantBark_Mat_Inst, compiling. 
+[2018.07.23-08.36.27:353][153]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_PlantPot_Mat_Inst, compiling. 
+[2018.07.23-08.36.27:360][153]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MI_Carptet_Mat_Inst, compiling. 
+[2018.07.23-08.36.27:368][153]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_DeskLamp_Mat_Inst, compiling. 
+[2018.07.23-08.36.27:374][153]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Statue_Inst, compiling. 
+[2018.07.23-08.36.27:380][153]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Painting_3, compiling. 
+[2018.07.23-08.36.27:388][153]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Curtain_MAT_Inst, compiling. 
+[2018.07.23-08.36.27:395][153]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Tiles_Mat_Inst, compiling. 
+[2018.07.23-08.36.27:404][153]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Railing_MAT_Inst, compiling. 
+[2018.07.23-08.36.27:413][153]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Wood_A_Master, compiling. 
+[2018.07.23-08.36.27:420][153]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Background_Mat, compiling. 
+[2018.07.23-08.36.27:428][153]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_RoundCeilingLight_Mat_LIT_Inst, compiling. 
+[2018.07.23-08.36.27:436][153]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MI_CineMat_CameraBody, compiling. 
+[2018.07.23-08.36.27:444][153]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MI_CineMat_CamViewFinder, compiling. 
+[2018.07.23-08.36.30:907][153]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.07.23-08.36.30:907][153]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.07.23-08.36.30:907][153]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.07.23-08.36.30:907][153]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.07.23-08.36.30:908][153]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.07.23-08.36.30:908][153]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.07.23-08.36.30:908][153]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.07.23-08.36.30:908][153]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.07.23-08.36.30:908][153]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.07.23-08.36.30:908][153]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.07.23-08.36.30:908][153]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.07.23-08.36.30:908][153]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.07.23-08.36.30:908][153]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.07.23-08.36.30:908][153]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.07.23-08.36.30:908][153]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.07.23-08.36.30:908][153]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.07.23-08.36.30:908][153]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.07.23-08.36.30:908][153]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.07.23-08.36.30:908][153]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.07.23-08.36.30:908][153]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.07.23-08.36.30:908][153]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.07.23-08.36.30:908][153]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.07.23-08.36.30:908][153]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.07.23-08.36.30:908][153]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.07.23-08.36.30:908][153]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.07.23-08.36.30:908][153]TextureStreamingBuild: Display: Compiling optional shaders took 3.691 seconds.
+[2018.07.23-08.36.31:168][153]LogLevel: Display: Export Material TexCoord Scales took 0.261 seconds.
+[2018.07.23-08.36.31:180][153]TextureStreamingBuild: Display: Build Texture Streaming took 0.012 seconds.
+[2018.07.23-08.36.31:193][153]LightingResults: New page: Lighting Build - Jul 23, 2018, 7:36:31 PM
+[2018.07.23-08.36.31:200][153]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.07.23-08.36.31:202][153]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.07.23-08.36.31:202][153]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.07.23-08.36.31:203][153]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.07.23-08.36.31:203][153]LogSwarmInterface: [TryOpenConnection] Local Process ID is 3836
+[2018.07.23-08.36.35:721][153]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.07.23-08.36.35:721][153]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.07.23-08.36.35:721][153]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.07.23-08.36.35:721][153]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.07.23-08.36.35:721][153]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.07.23-08.36.35:949][153]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.07.23-08.36.35:950][153]MapCheck: New page: _room_light - Jul 23, 2018, 7:36:35 PM
+[2018.07.23-08.36.35:956][153]MapCheck: Error: WorldSettings Maps need lighting rebuilt 
+[2018.07.23-08.36.36:023][153]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 73.534ms to complete.
+[2018.07.23-08.36.36:046][153]LogEditorBuildUtils: Build time 0:09
+[2018.07.23-08.36.36:057][153]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.23-08.37.01:803][771]LogSlate: Window 'Message Log' being destroyed
+[2018.07.23-08.37.01:814][771]LogSlate: Window 'Message Log' being destroyed
+[2018.07.23-08.38.33:634][777]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.23-08.40.07:206][174]Job is a success!
+[2018.07.23-08.40.07:591][175]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.005s
+[2018.07.23-08.40.07:591][175]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.07.23-08.40.07:591][175]LogVolumetricLightmapImport:      BrickData 20x5x5 = 0.0Mb
+[2018.07.23-08.40.07:591][175]LogVolumetricLightmapImport:      Bricks at Level
+[2018.07.23-08.40.07:591][175]LogVolumetricLightmapImport:          0: 25.0% covering 100.0% of volume
+[2018.07.23-08.40.07:591][175]LogVolumetricLightmapImport:          1: 25.0% covering 1.6% of volume
+[2018.07.23-08.40.07:591][175]LogVolumetricLightmapImport:          2: 50.0% covering 0.0% of volume
+[2018.07.23-08.40.09:511][175]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 1024X512)
+[2018.07.23-08.40.09:511][175]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2018.07.23-08.40.09:511][175]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2018.07.23-08.40.09:511][175]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 1024X512)
+[2018.07.23-08.40.09:511][175]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 1024X1024)
+[2018.07.23-08.40.09:511][175]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 1024X1024)
+[2018.07.23-08.40.09:511][175]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 512X256)
+[2018.07.23-08.40.09:511][175]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 512X512)
+[2018.07.23-08.40.09:511][175]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 512X512)
+[2018.07.23-08.40.09:745][175]LogTexture: Display: Building textures: ShadowMapTexture2D_15 (BGRA8, 32X512)
+[2018.07.23-08.40.09:745][175]LogTexture: Display: Building textures: ShadowMapTexture2D_14 (BGRA8, 1024X512)
+[2018.07.23-08.40.09:785][175]Lightmass on LAPTOP-SNI5BBA7: 3:32 min total, 542 ms importing, 186 ms setup, 7.71 sec photons, 3:24 min processing, 0 ms extra exporting [106/106 mappings]. Threads: 13:36 min total, 10:00 min processing.
+[2018.07.23-08.40.09:795][175]LogStaticLightingSystem: Illumination: 3:38 min (1.84 sec encoding lightmaps, 229 ms encoding shadowmaps)
+[2018.07.23-08.40.09:796][175]LogStaticLightingSystem: Lightmap texture memory:  6.0 MB (3.3 MB streaming, 2.7 MB non-streaming), 6 textures
+[2018.07.23-08.40.09:796][175]LogStaticLightingSystem: Shadowmap texture memory: 2.8 MB (2.7 MB streaming, 0.1 MB non-streaming), 2 textures
+[2018.07.23-08.40.09:862][175]DumpUnbuiltLightIteractions
+[2018.07.23-08.40.09:862][175]Lights with unbuilt interactions: 0
+[2018.07.23-08.40.09:862][175]
+[2018.07.23-08.40.09:862][175]Primitives with unbuilt interactions: 0
+[2018.07.23-08.40.10:385][176]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.07.23-08.40.10:385][176]MapCheck: New page: _room_light - Jul 23, 2018, 7:40:10 PM
+[2018.07.23-08.40.10:459][176]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 74.066ms to complete.
+[2018.07.23-08.40.49:487][293]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.23-08.40.58:980][797]LogSavePackage: Save=19.46ms
+[2018.07.23-08.40.58:980][797]LogSavePackage: Moving '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Saved/SEQ_Demo_Map_CamFBAE97BD41D40364F8C5A1947E37AFD1.tmp' to '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Content/Sequences/SEQ_Demo_Map_Cam.uasset'
+[2018.07.23-08.40.58:983][797]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Content/Sequences/SEQ_Demo_Map_Cam.uasset
+[2018.07.23-08.41.04:417][953]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.23-08.41.04:497][956]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.23-08.41.04:516][956]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.23-08.41.04:517][956]PIE: New page: PIE session: _room_light (Jul 23, 2018, 7:41:04 PM)
+[2018.07.23-08.41.04:517][956]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0__room_light
+[2018.07.23-08.41.04:524][956]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007093s)
+[2018.07.23-08.41.04:524][956]LogAIModule: Creating AISystem for world _room_light
+[2018.07.23-08.41.04:525][956]LogPlayLevel: PIE: World Init took: (0.000740s)
+[2018.07.23-08.41.04:525][956]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/_room_light._room_light to /Game/Maps/UEDPIE_0__room_light._room_light (0.008060s)
+[2018.07.23-08.41.04:538][956]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.23-08.41.04:543][956]LogInit: FAudioDevice initialized.
+[2018.07.23-08.41.04:579][956]LogLoad: Game class is 'GameModeBase'
+[2018.07.23-08.41.04:584][956]LogWorld: Bringing World /Game/Maps/UEDPIE_0__room_light._room_light up for play (max tick rate 0) at 2018.07.23-14.11.04
+[2018.07.23-08.41.04:587][956]LogWorld: Bringing up level for play took: 0.007225
+[2018.07.23-08.41.04:590][956]PIE: Play in editor start time for /Game/Maps/UEDPIE_0__room_light -0.049
+[2018.07.23-08.42.16:472][398]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.23-08.42.20:329][517]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.23-08.42.20:468][517]LogSavePackage: Save=89.67ms
+[2018.07.23-08.42.20:468][517]LogSavePackage: Moving '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Saved/_room_light1314F2A242A9D47F390CFBAEED7107A6.tmp' to '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Content/Maps/_room_light.umap'
+[2018.07.23-08.42.20:472][517]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Content/Maps/_room_light.umap
+[2018.07.23-08.42.21:116][517]LogSavePackage: Save=594.16ms
+[2018.07.23-08.42.21:116][517]LogSavePackage: Moving '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Saved/_room_light_BuiltData605EE60F4C327DFFF2C6219EC15ECA68.tmp' to '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Content/Maps/_room_light_BuiltData.uasset'
+[2018.07.23-08.42.21:119][517]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Content/Maps/_room_light_BuiltData.uasset
+[2018.07.23-08.42.23:459][594]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.23-08.42.31:096][598]LogSlate: Window 'Save Content' being destroyed
+[2018.07.23-08.42.31:106][598]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.23-08.42.31:139][598]LogSavePackage: Save=20.03ms
+[2018.07.23-08.42.31:139][598]LogSavePackage: Moving '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Saved/SEQ_Demo_Map_Cam589346D642D44C82F5F7FFA2C456EDA2.tmp' to '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Content/Sequences/SEQ_Demo_Map_Cam.uasset'
+[2018.07.23-08.42.31:142][598]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Content/Sequences/SEQ_Demo_Map_Cam.uasset
+[2018.07.23-08.42.31:786][598]LogSlate: Window 'ArchVisDemo - Unreal Editor' being destroyed
+[2018.07.23-08.42.32:436][599]Cmd: QUIT_EDITOR
+[2018.07.23-08.42.33:935][599]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.07.23-08.42.34:071][599]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.07.23-08.42.34:090][599]LogExit: Preparing to exit.
+[2018.07.23-08.42.35:348][599]LogDirectoryWatcher: A directory notification for 'C:/Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Content/' was aborted.
+[2018.07.23-08.42.35:624][599]LogExit: Editor shut down
+[2018.07.23-08.42.35:668][599]LogExit: Transaction tracking system shut down
+[2018.07.23-08.42.35:765][599]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.07.23-08.42.35:765][599]LogDirectoryWatcher: A directory notification for '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Content/' was aborted.
+[2018.07.23-08.42.35:765][599]LogDirectoryWatcher: A directory notification for '../../Plugins/2D/Paper2D/Content/' was aborted.
+[2018.07.23-08.42.35:765][599]LogDirectoryWatcher: A directory notification for '../../Plugins/Enterprise/DatasmithContent/Content/' was aborted.
+[2018.07.23-08.42.35:765][599]LogDirectoryWatcher: A directory notification for '../../Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.07.23-08.42.35:765][599]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.07.23-08.42.35:765][599]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.07.23-08.42.35:765][599]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.07.23-08.42.38:729][599]LogExit: Object subsystem successfully closed.
+[2018.07.23-08.42.38:931][599]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.07.23-08.42.39:022][599]LogD3D11RHI: Shutdown
+[2018.07.23-08.42.39:022][599]LogD3D11RHI: CleanupD3DDevice
+[2018.07.23-08.42.39:097][599]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.07.23-08.42.40:774][599]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (580)
+[2018.07.23-08.42.40:774][599]LogModuleManager: Shutting down and abandoning module SequencerWidgets (578)
+[2018.07.23-08.42.40:774][599]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (576)
+[2018.07.23-08.42.40:774][599]LogModuleManager: Shutting down and abandoning module SceneOutliner (574)
+[2018.07.23-08.42.40:775][599]LogModuleManager: Shutting down and abandoning module AddContentDialog (572)
+[2018.07.23-08.42.40:809][599]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.19/FeaturePacks/' was aborted.
+[2018.07.23-08.42.40:848][599]LogModuleManager: Shutting down and abandoning module WidgetCarousel (571)
+[2018.07.23-08.42.40:848][599]LogModuleManager: Shutting down and abandoning module EditorWidgets (568)
+[2018.07.23-08.42.40:848][599]LogModuleManager: Shutting down and abandoning module CollectionManager (566)
+[2018.07.23-08.42.40:918][599]LogDirectoryWatcher: A directory notification for 'C:/Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Content/Collections/' was aborted.
+[2018.07.23-08.42.40:919][599]LogDirectoryWatcher: A directory notification for 'C:/Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Content/Developers/Shweta/Collections/' was aborted.
+[2018.07.23-08.42.40:919][599]LogDirectoryWatcher: A directory notification for 'C:/Users/Shweta/Documents/GitHub/theshwetapatil/Epic-Approved-UE4-Certification-UE4/ArchVisDemoV2/Saved/Collections/' was aborted.
+[2018.07.23-08.42.40:919][599]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (564)
+[2018.07.23-08.42.40:930][599]LogModuleManager: Shutting down and abandoning module StatsViewer (562)
+[2018.07.23-08.42.40:961][599]LogModuleManager: Shutting down and abandoning module FoliageEdit (560)
+[2018.07.23-08.42.40:961][599]LogModuleManager: Shutting down and abandoning module LandscapeEditor (558)
+[2018.07.23-08.42.40:996][599]LogModuleManager: Shutting down and abandoning module MeshPaintMode (556)
+[2018.07.23-08.42.41:010][599]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (554)
+[2018.07.23-08.42.41:011][599]LogModuleManager: Shutting down and abandoning module ActorPickerMode (552)
+[2018.07.23-08.42.41:011][599]LogModuleManager: Shutting down and abandoning module GeometryMode (550)
+[2018.07.23-08.42.41:020][599]LogModuleManager: Shutting down and abandoning module TextureAlignMode (548)
+[2018.07.23-08.42.41:020][599]LogModuleManager: Shutting down and abandoning module BspMode (546)
+[2018.07.23-08.42.41:020][599]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (544)
+[2018.07.23-08.42.41:020][599]LogModuleManager: Shutting down and abandoning module HardwareSurvey (542)
+[2018.07.23-08.42.41:020][599]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (540)
+[2018.07.23-08.42.41:039][599]LogModuleManager: Shutting down and abandoning module AutomationWorker (538)
+[2018.07.23-08.42.41:039][599]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (536)
+[2018.07.23-08.42.41:039][599]LogModuleManager: Shutting down and abandoning module SequenceRecorder (535)
+[2018.07.23-08.42.41:080][599]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (532)
+[2018.07.23-08.42.41:080][599]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (530)
+[2018.07.23-08.42.41:095][599]LogModuleManager: Shutting down and abandoning module PlacementMode (529)
+[2018.07.23-08.42.41:095][599]LogModuleManager: Shutting down and abandoning module MaterialEditor (528)
+[2018.07.23-08.42.41:152][599]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (524)
+[2018.07.23-08.42.41:152][599]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (522)
+[2018.07.23-08.42.41:152][599]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (520)
+[2018.07.23-08.42.41:195][599]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (518)
+[2018.07.23-08.42.41:195][599]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (516)
+[2018.07.23-08.42.41:195][599]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (514)
+[2018.07.23-08.42.41:195][599]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (512)
+[2018.07.23-08.42.41:195][599]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (510)
+[2018.07.23-08.42.41:195][599]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (508)
+[2018.07.23-08.42.41:195][599]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (506)
+[2018.07.23-08.42.41:195][599]LogModuleManager: Shutting down and abandoning module CharacterAI (504)
+[2018.07.23-08.42.41:195][599]LogModuleManager: Shutting down and abandoning module SmartSnapping (502)
+[2018.07.23-08.42.41:195][599]LogModuleManager: Shutting down and abandoning module SessionServices (500)
+[2018.07.23-08.42.41:195][599]LogModuleManager: Shutting down and abandoning module ViewportSnapping (498)
+[2018.07.23-08.42.41:195][599]LogModuleManager: Shutting down and abandoning module ViewportInteraction (496)
+[2018.07.23-08.42.41:195][599]LogModuleManager: Shutting down and abandoning module ClothPainter (494)
+[2018.07.23-08.42.41:220][599]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (493)
+[2018.07.23-08.42.41:249][599]LogModuleManager: Shutting down and abandoning module LogVisualizer (490)
+[2018.07.23-08.42.41:267][599]LogModuleManager: Shutting down and abandoning module IntroTutorials (488)
+[2018.07.23-08.42.41:301][599]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (487)
+[2018.07.23-08.42.41:349][599]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (484)
+[2018.07.23-08.42.41:360][599]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (482)
+[2018.07.23-08.42.41:361][599]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (480)
+[2018.07.23-08.42.41:361][599]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (479)
+[2018.07.23-08.42.42:232][599]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (476)
+[2018.07.23-08.42.42:232][599]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (474)
+[2018.07.23-08.42.42:232][599]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (472)
+[2018.07.23-08.42.42:232][599]LogModuleManager: Shutting down and abandoning module InputBindingEditor (470)
+[2018.07.23-08.42.42:296][599]LogModuleManager: Shutting down and abandoning module MergeActors (468)
+[2018.07.23-08.42.42:320][599]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (466)
+[2018.07.23-08.42.42:337][599]LogModuleManager: Shutting down and abandoning module LocalizationService (465)
+[2018.07.23-08.42.42:358][599]LogModuleManager: Shutting down and abandoning module HardwareTargeting (462)
+[2018.07.23-08.42.42:358][599]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (460)
+[2018.07.23-08.42.42:372][599]LogModuleManager: Shutting down and abandoning module UndoHistory (458)
+[2018.07.23-08.42.42:372][599]LogModuleManager: Shutting down and abandoning module XmlParser (456)
+[2018.07.23-08.42.42:383][599]LogModuleManager: Shutting down and abandoning module Blutility (454)
+[2018.07.23-08.42.42:383][599]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (452)
+[2018.07.23-08.42.42:383][599]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (451)
+[2018.07.23-08.42.42:384][599]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (448)
+[2018.07.23-08.42.42:384][599]LogModuleManager: Shutting down and abandoning module SettingsEditor (446)
+[2018.07.23-08.42.42:437][599]LogModuleManager: Shutting down and abandoning module ProjectLauncher (444)
+[2018.07.23-08.42.42:452][599]LogModuleManager: Shutting down and abandoning module SessionFrontend (442)
+[2018.07.23-08.42.42:463][599]LogModuleManager: Shutting down and abandoning module ProfilerClient (440)
+[2018.07.23-08.42.42:475][599]LogModuleManager: Shutting down and abandoning module DeviceManager (438)
+[2018.07.23-08.42.42:488][599]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (437)
+[2018.07.23-08.42.42:570][599]LogModuleManager: Shutting down and abandoning module AutomationController (434)
+[2018.07.23-08.42.42:588][599]LogModuleManager: Shutting down and abandoning module AutomationWindow (432)
+[2018.07.23-08.42.42:667][599]LogModuleManager: Shutting down and abandoning module Layers (430)
+[2018.07.23-08.42.42:751][599]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (428)
+[2018.07.23-08.42.42:751][599]LogModuleManager: Shutting down and abandoning module DetailCustomizations (426)
+[2018.07.23-08.42.42:764][599]LogModuleManager: Shutting down and abandoning module PackagesDialog (424)
+[2018.07.23-08.42.42:764][599]LogModuleManager: Shutting down and abandoning module Persona (422)
+[2018.07.23-08.42.42:786][599]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (421)
+[2018.07.23-08.42.42:787][599]LogModuleManager: Shutting down and abandoning module AnimGraph (419)
+[2018.07.23-08.42.42:787][599]LogModuleManager: Shutting down and abandoning module Kismet (416)
+[2018.07.23-08.42.42:831][599]LogModuleManager: Shutting down and abandoning module GraphEditor (414)
+[2018.07.23-08.42.42:887][599]LogModuleManager: Shutting down and abandoning module ClassViewer (412)
+[2018.07.23-08.42.42:887][599]LogModuleManager: Shutting down and abandoning module Toolbox (410)
+[2018.07.23-08.42.42:888][599]LogModuleManager: Shutting down and abandoning module ModuleUI (408)
+[2018.07.23-08.42.42:906][599]LogModuleManager: Shutting down and abandoning module MovieSceneTools (406)
+[2018.07.23-08.42.42:907][599]LogModuleManager: Shutting down and abandoning module OutputLog (404)
+[2018.07.23-08.42.42:924][599]LogModuleManager: Shutting down and abandoning module GammaUI (402)
+[2018.07.23-08.42.42:933][599]LogModuleManager: Shutting down and abandoning module Documentation (400)
+[2018.07.23-08.42.42:933][599]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (398)
+[2018.07.23-08.42.42:933][599]LogModuleManager: Shutting down and abandoning module MovieScene (396)
+[2018.07.23-08.42.42:933][599]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (394)
+[2018.07.23-08.42.42:934][599]LogModuleManager: Shutting down and abandoning module LauncherPlatform (392)
+[2018.07.23-08.42.42:934][599]LogModuleManager: Shutting down and abandoning module AnalyticsET (390)
+[2018.07.23-08.42.42:934][599]LogModuleManager: Shutting down and abandoning module PortalServices (388)
+[2018.07.23-08.42.42:934][599]LogModuleManager: Shutting down and abandoning module PortalRpc (386)
+[2018.07.23-08.42.42:934][599]LogModuleManager: Shutting down and abandoning module MessagingRpc (384)
+[2018.07.23-08.42.42:934][599]LogModuleManager: Shutting down and abandoning module AIModule (382)
+[2018.07.23-08.42.42:934][599]LogModuleManager: Shutting down and abandoning module GameplayDebugger (381)
+[2018.07.23-08.42.42:934][599]LogModuleManager: Shutting down and abandoning module AITestSuite (379)
+[2018.07.23-08.42.42:947][599]LogModuleManager: Shutting down and abandoning module DesktopPlatform (376)
+[2018.07.23-08.42.42:967][599]LogModuleManager: Shutting down and abandoning module ProfilerService (374)
+[2018.07.23-08.42.42:975][599]LogModuleManager: Shutting down and abandoning module TaskGraph (372)
+[2018.07.23-08.42.43:004][599]LogModuleManager: Shutting down and abandoning module SteamVRController (370)
+[2018.07.23-08.42.43:004][599]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (368)
+[2018.07.23-08.42.43:004][599]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (366)
+[2018.07.23-08.42.43:021][599]LogModuleManager: Shutting down and abandoning module OculusInput (364)
+[2018.07.23-08.42.43:026][599]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (362)
+[2018.07.23-08.42.43:026][599]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (360)
+[2018.07.23-08.42.43:026][599]LogModuleManager: Shutting down and abandoning module CableComponent (358)
+[2018.07.23-08.42.43:032][599]LogModuleManager: Shutting down and abandoning module AudioCapture (356)
+[2018.07.23-08.42.43:032][599]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (354)
+[2018.07.23-08.42.43:032][599]LogModuleManager: Shutting down and abandoning module AndroidPermission (352)
+[2018.07.23-08.42.43:032][599]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (348)
+[2018.07.23-08.42.43:032][599]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (346)
+[2018.07.23-08.42.43:049][599]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (344)
+[2018.07.23-08.42.43:049][599]LogModuleManager: Shutting down and abandoning module MediaCompositing (342)
+[2018.07.23-08.42.43:049][599]LogModuleManager: Shutting down and abandoning module LinearTimecode (340)
+[2018.07.23-08.42.43:049][599]LogModuleManager: Shutting down and abandoning module ImgMedia (338)
+[2018.07.23-08.42.43:081][599]LogModuleManager: Shutting down and abandoning module HTML5Networking (336)
+[2018.07.23-08.42.43:081][599]LogModuleManager: Shutting down and abandoning module AlembicImporter (334)
+[2018.07.23-08.42.43:099][599]LogModuleManager: Shutting down and abandoning module AlembicLibrary (333)
+[2018.07.23-08.42.43:100][599]LogModuleManager: Shutting down and abandoning module GeometryCache (332)
+[2018.07.23-08.42.43:100][599]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (331)
+[2018.07.23-08.42.43:100][599]LogModuleManager: Shutting down and abandoning module DatasmithContent (326)
+[2018.07.23-08.42.43:100][599]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (324)
+[2018.07.23-08.42.43:100][599]LogModuleManager: Shutting down and abandoning module PluginBrowser (322)
+[2018.07.23-08.42.43:123][599]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (320)
+[2018.07.23-08.42.43:135][599]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (318)
+[2018.07.23-08.42.43:155][599]LogModuleManager: Shutting down and abandoning module CryptoKeys (316)
+[2018.07.23-08.42.43:155][599]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (314)
+[2018.07.23-08.42.43:155][599]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (312)
+[2018.07.23-08.42.43:155][599]LogModuleManager: Shutting down and abandoning module UObjectPlugin (310)
+[2018.07.23-08.42.43:156][599]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (308)
+[2018.07.23-08.42.43:176][599]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (306)
+[2018.07.23-08.42.43:192][599]LogModuleManager: Shutting down and abandoning module GitSourceControl (304)
+[2018.07.23-08.42.43:200][599]LogModuleManager: Shutting down and abandoning module SourceControl (303)
+[2018.07.23-08.42.43:228][599]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (300)
+[2018.07.23-08.42.43:240][599]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (298)
+[2018.07.23-08.42.43:240][599]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (296)
+[2018.07.23-08.42.43:240][599]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (294)
+[2018.07.23-08.42.43:240][599]LogModuleManager: Shutting down and abandoning module Paper2DEditor (292)
+[2018.07.23-08.42.43:263][599]LogModuleManager: Shutting down and abandoning module MeshPaint (291)
+[2018.07.23-08.42.43:270][599]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (288)
+[2018.07.23-08.42.43:270][599]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (286)
+[2018.07.23-08.42.43:270][599]LogModuleManager: Shutting down and abandoning module PhysXVehicles (284)
+[2018.07.23-08.42.43:270][599]LogModuleManager: Shutting down and abandoning module OculusEditor (282)
+[2018.07.23-08.42.43:270][599]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (280)
+[2018.07.23-08.42.43:270][599]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (278)
+[2018.07.23-08.42.43:270][599]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (276)
+[2018.07.23-08.42.43:285][599]LogModuleManager: Shutting down and abandoning module ActorSequence (274)
+[2018.07.23-08.42.43:285][599]LogModuleManager: Shutting down and abandoning module UdpMessaging (272)
+[2018.07.23-08.42.43:392][599]LogModuleManager: Shutting down and abandoning module TcpMessaging (270)
+[2018.07.23-08.42.43:507][599]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (268)
+[2018.07.23-08.42.43:529][599]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (266)
+[2018.07.23-08.42.43:529][599]LogModuleManager: Shutting down and abandoning module FacialAnimation (264)
+[2018.07.23-08.42.43:529][599]LogModuleManager: Shutting down and abandoning module DataValidation (262)
+[2018.07.23-08.42.43:529][599]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (260)
+[2018.07.23-08.42.43:554][599]LogModuleManager: Shutting down and abandoning module LevelEditor (259)
+[2018.07.23-08.42.43:564][599]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (258)
+[2018.07.23-08.42.43:569][599]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (256)
+[2018.07.23-08.42.43:570][599]LogModuleManager: Shutting down and abandoning module MainFrame (254)
+[2018.07.23-08.42.43:570][599]LogModuleManager: Shutting down and abandoning module HotReload (253)
+[2018.07.23-08.42.43:623][599]LogModuleManager: Shutting down and abandoning module ContentBrowser (249)
+[2018.07.23-08.42.43:630][599]LogModuleManager: Shutting down and abandoning module TreeMap (247)
+[2018.07.23-08.42.43:651][599]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (244)
+[2018.07.23-08.42.43:651][599]LogModuleManager: Shutting down and abandoning module LiveLinkEditor (242)
+[2018.07.23-08.42.43:665][599]LogModuleManager: Shutting down and abandoning module LiveLink (240)
+[2018.07.23-08.42.44:426][599]LogModuleManager: Shutting down and abandoning module Paper2D (238)
+[2018.07.23-08.42.44:465][599]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (236)
+[2018.07.23-08.42.44:478][599]LogModuleManager: Shutting down and abandoning module WmfMedia (234)
+[2018.07.23-08.42.44:492][599]LogModuleManager: Shutting down and abandoning module Media (233)
+[2018.07.23-08.42.44:500][599]LogModuleManager: Shutting down and abandoning module PacketHandler (230)
+[2018.07.23-08.42.44:501][599]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (228)
+[2018.07.23-08.42.44:501][599]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (226)
+[2018.07.23-08.42.44:531][599]LogModuleManager: Shutting down and abandoning module MediaAssets (224)
+[2018.07.23-08.42.44:531][599]LogModuleManager: Shutting down and abandoning module Overlay (222)
+[2018.07.23-08.42.44:531][599]LogModuleManager: Shutting down and abandoning module OverlayEditor (221)
+[2018.07.23-08.42.44:531][599]LogModuleManager: Shutting down and abandoning module VREditor (218)
+[2018.07.23-08.42.44:579][599]LogModuleManager: Shutting down and abandoning module StringTableEditor (216)
+[2018.07.23-08.42.44:579][599]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (214)
+[2018.07.23-08.42.44:579][599]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (212)
+[2018.07.23-08.42.44:648][599]LogModuleManager: Shutting down and abandoning module FunctionalTesting (210)
+[2018.07.23-08.42.44:650][599]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (208)
+[2018.07.23-08.42.44:674][599]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (207)
+[2018.07.23-08.42.44:674][599]LogModuleManager: Shutting down and abandoning module UMG (204)
+[2018.07.23-08.42.44:689][599]LogModuleManager: Shutting down and abandoning module UMGEditor (203)
+[2018.07.23-08.42.44:700][599]LogModuleManager: Shutting down and abandoning module Sequencer (202)
+[2018.07.23-08.42.44:701][599]LogModuleManager: Shutting down and abandoning module MessageLog (199)
+[2018.07.23-08.42.44:701][599]LogModuleManager: Shutting down and abandoning module SlateReflector (194)
+[2018.07.23-08.42.44:721][599]LogModuleManager: Shutting down and abandoning module Slate (192)
+[2018.07.23-08.42.44:721][599]LogModuleManager: Shutting down and abandoning module EditorStyle (190)
+[2018.07.23-08.42.44:730][599]LogModuleManager: Shutting down and abandoning module MRMesh (188)
+[2018.07.23-08.42.44:730][599]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (186)
+[2018.07.23-08.42.44:730][599]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (184)
+[2018.07.23-08.42.44:730][599]LogModuleManager: Shutting down and abandoning module XAudio2 (182)
+[2018.07.23-08.42.44:730][599]LogModuleManager: Shutting down and abandoning module Networking (180)
+[2018.07.23-08.42.44:730][599]LogModuleManager: Shutting down and abandoning module Core (178)
+[2018.07.23-08.42.44:730][599]LogModuleManager: Shutting down and abandoning module LevelSequence (176)
+[2018.07.23-08.42.44:730][599]LogModuleManager: Shutting down and abandoning module KismetCompiler (174)
+[2018.07.23-08.42.44:730][599]LogModuleManager: Shutting down and abandoning module MeshUtilities (172)
+[2018.07.23-08.42.44:731][599]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (171)
+[2018.07.23-08.42.44:731][599]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (170)
+[2018.07.23-08.42.44:731][599]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (169)
+[2018.07.23-08.42.44:744][599]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (167)
+[2018.07.23-08.42.44:775][599]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (165)
+[2018.07.23-08.42.44:787][599]LogModuleManager: Shutting down and abandoning module MaterialBaking (161)
+[2018.07.23-08.42.44:800][599]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (157)
+[2018.07.23-08.42.44:831][599]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2018.07.23-08.42.44:852][599]LogDerivedDataCache: Shutdown
+[2018.07.23-08.42.44:852][599]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2018.07.23-08.42.44:852][599]LogXGEController: Cleaning working directory: C:/Users/Shweta/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.07.23-08.42.44:853][599]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2018.07.23-08.42.44:853][599]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2018.07.23-08.42.44:865][599]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2018.07.23-08.42.44:879][599]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2018.07.23-08.42.44:882][599]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2018.07.23-08.42.44:902][599]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2018.07.23-08.42.44:932][599]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2018.07.23-08.42.44:932][599]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2018.07.23-08.42.44:932][599]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2018.07.23-08.42.44:932][599]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2018.07.23-08.42.44:943][599]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2018.07.23-08.42.44:944][599]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2018.07.23-08.42.44:944][599]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2018.07.23-08.42.44:944][599]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2018.07.23-08.42.44:944][599]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2018.07.23-08.42.44:944][599]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2018.07.23-08.42.44:944][599]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (119)
+[2018.07.23-08.42.44:944][599]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (117)
+[2018.07.23-08.42.44:945][599]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (115)
+[2018.07.23-08.42.44:945][599]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (113)
+[2018.07.23-08.42.44:945][599]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (111)
+[2018.07.23-08.42.44:945][599]LogModuleManager: Shutting down and abandoning module Messaging (109)
+[2018.07.23-08.42.44:945][599]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (107)
+[2018.07.23-08.42.44:945][599]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (105)
+[2018.07.23-08.42.44:946][599]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (103)
+[2018.07.23-08.42.44:946][599]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (101)
+[2018.07.23-08.42.44:946][599]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (99)
+[2018.07.23-08.42.44:946][599]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (97)
+[2018.07.23-08.42.44:946][599]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (95)
+[2018.07.23-08.42.44:946][599]LogModuleManager: Shutting down and abandoning module Android_ETC1aTargetPlatform (93)
+[2018.07.23-08.42.44:946][599]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (91)
+[2018.07.23-08.42.44:946][599]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (89)
+[2018.07.23-08.42.44:947][599]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (87)
+[2018.07.23-08.42.44:947][599]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (85)
+[2018.07.23-08.42.44:947][599]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (83)
+[2018.07.23-08.42.44:947][599]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (81)
+[2018.07.23-08.42.44:947][599]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (79)
+[2018.07.23-08.42.44:947][599]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (77)
+[2018.07.23-08.42.44:948][599]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (75)
+[2018.07.23-08.42.44:948][599]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (73)
+[2018.07.23-08.42.44:948][599]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (71)
+[2018.07.23-08.42.44:948][599]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (69)
+[2018.07.23-08.42.44:948][599]LogModuleManager: Shutting down and abandoning module InputCore (66)
+[2018.07.23-08.42.44:949][599]LogModuleManager: Shutting down and abandoning module Settings (64)
+[2018.07.23-08.42.44:949][599]LogModuleManager: Shutting down and abandoning module PhysXCooking (62)
+[2018.07.23-08.42.44:949][599]LogModuleManager: Shutting down and abandoning module SteamVR (60)
+[2018.07.23-08.42.44:949][599]LogModuleManager: Shutting down and abandoning module OculusHMD (58)
+[2018.07.23-08.42.44:972][599]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (56)
+[2018.07.23-08.42.44:973][599]LogModuleManager: Shutting down and abandoning module AppleARKit (54)
+[2018.07.23-08.42.44:973][599]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.07.23-08.42.44:973][599]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.07.23-08.42.44:973][599]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.07.23-08.42.45:021][599]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.07.23-08.42.45:052][599]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.07.23-08.42.45:072][599]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.07.23-08.42.45:072][599]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE6A09DDA-4153-40F7-E977-6BB8C91B3276%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.19.2-4033788%2B%2B%2BUE4%2BRelease-4.19&UserID=c76cbc614dc4c6a1dc888b8aa3470b3f%7C57113a4ef07749e899daf8a54070ea17%7C6d46c3db-d58f-4b5d-93cd-6fe936b97061&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.07.23-08.42.45:097][599]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.07.23-08.42.45:140][599]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.07.23-08.42.45:164][599]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.07.23-08.42.45:165][599]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.07.23-08.42.45:190][599]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.07.23-08.42.45:190][599]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.07.23-08.42.45:190][599]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.07.23-08.42.45:191][599]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.07.23-08.42.45:223][599]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.07.23-08.42.45:243][599]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.07.23-08.42.45:243][599]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.07.23-08.42.45:263][599]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.07.23-08.42.45:263][599]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.07.23-08.42.45:263][599]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.07.23-08.42.45:263][599]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.07.23-08.42.45:275][599]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.07.23-08.42.45:275][599]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.07.23-08.42.45:291][599]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.07.23-08.42.45:298][599]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.07.23-08.42.45:363][599]LogExit: Exiting.
+[2018.07.23-08.42.45:428][599]Log file closed, 07/23/18 14:12:45

@@ -102,3 +102,69 @@ After building Light Only; Change Light Qaulity in Build to Production.
 Recommended to create production build before pushing online. At least do one at the end of the day, to get the rough idea of how things are going to look. And recommended to do it incrementally.
 In production lighting, a lot more lighting calculations are done. So, lighting results are substantially more accurate. Sometimes, can brighten up areas previously unnoticed and get a whole lot of indirect lighting to end up in a certain way.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Finishing Touches
+Particle System
+Goto the Effects Folder/Create one->Right click and create a new Particle System
+Drag particle system into the world ([Emitter] in World Outliner)
+Double click on particle system in content browser
+Relocate particle system to the ground to build as if dust is calculated from ground level
+Viewport window shows how the effect currently looks
+Emitter window shows current emitter with all the effective modules. Look at the modules as if they are the stack of instructions.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Dust Particle
+Add new module- Location->Initial Location in Emitter window
+In Location, Start location gives the range of locations of the particle when the particle is first created
+Get rid of Initial Velocity in Emitter window
+First set the movement for the dust particle, then the material
+.......................................................
+Setting Movement of Dust Particles
+Add new module- Acceleration->Contant Acceleration in Emitter window
+Alter the size of particles in Initial Size in Emitter window
+How particles work initially is that, they're squared. That why, the only value they actually consider is their X-axis. They can be set to take into account the other axes to make them into rectangles.
+To stop them from cyling around and being created/destroyed so frequently, tweak Lifetime in emitter window
+To spiral around a little bit, use orbit module
+Add new module- Orbit>Orbit in Emitter window
+.......................................................
+Setting Material of Dust Particles
+Essentially Orbit gives them a random rotation that circles around the current point and space
+To give chaotic effect, set it to the orbit that's far far far slower but still has that round movement to imply that the dust is kinda just getting caught in that subtle breezes that we can't see.
+Goto the Effects Folder/Create one->Right click and create a new Material
+Double click on material in content browser
+Click on prview mesh to turn it into a plane
+In Material window, Right-Click and add a Particle Color node (Particle->Particle Color)
+In Particle Color node, connect color[uppermost radio] to base color
+In Particle System, Emitter window, set Required node's material to be newly created dust material
+Hit Apply in Material tab, and check particle in the world.
+In Material window, Right-Click and add a Radial Gradient Exponential node (Gradient->Radial Gradient Exponential)
+Radial Gradient Exponential is useful to create transparent sphere to be used as the shape of the dust
+Set material's Blend Mode to be Translucent
+In Particle System, Emitter window, open Color Over Life
+In Content Curve, in Point 0, In Val==0 => at 0%[beginning] of life, color is as below
+In Content Curve, in Point 1, In Val==1 => at 100%[end] of life, color is as below
+Color Over Life- Important to control how the dust looks in the world
+Alpha Over Life, for the dust particle to fade into the existance and out of the existance'
+In Material, Hold M+Left-Click or Math->Multiply
+Particle Color:Alpha channel___________>Multiply:A
+Radial Gradient Exponential:Radial Gradient Exponential___________>Multiply:B
+Multiply____>Opacity
+If Radial Gradient Exponential value is one, and alpha is zero; then opacity will be zero and it will be invisible
+If Radial Gradient Exponential value is one, and alpha is one; then opacity will be one and it will be fully visible
+Click on arrow next to members in point array element to duplicate
+In Particle System, Emitter window, Spawn, to decrease spawn rate of dust particles
+To avoid restarting the entire particle system;
+Click in blank empty space next to Emitters,
+Under Warmup Time(in particle system), set it to 1; it starts 1 sec to where the things would have ended up, bit nicer for the refresh
+To set dust particles to automatically go invible as approached;
+In Material window, Right-Click and add a Distance Blend node (Particles->Distance Blend)
+Distance Blend converts the object from white to black when moved closer, being given start offset value{the point where it changes} and the blend range{how long it is grey for before going into being white or black}
+In Material, Hold 1+Left-Click or Constant->Constant
+For start offset value constant unit, it's going to be between it's intended opacity and invisible
+At blend range constant units distance, it's no longer going to be visible
+Previous Multiply_____>Multiply:A
+Distance Blend:Result________>Multiply:B
+Recent Multiply____>Opacity
+Anti-Aliacing activates when they get too small, making them very hard to see
+To fix that;
+In Material, under Translucency, Responsive AA[Select]; not to anti-alias this particle, not to do any edge-blending on the particle system itself
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
