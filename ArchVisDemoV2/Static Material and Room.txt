@@ -167,4 +167,17 @@ Anti-Aliacing activates when they get too small, making them very hard to see
 To fix that;
 In Material, under Translucency, Responsive AA[Select]; not to anti-alias this particle, not to do any edge-blending on the particle system itself
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+To add a playable character
+In content browser, goto Blueprints,
+Drag FPS_Character blueprint into the world
+It has a nice little arrow that says which way we're currently facing
+Under Pawn, Auto Possess, set to Player 0; saying the second the game loads up, let this player 0 be this person
+To stop autoplay of the clip in the background,
+Goto the sequence created
+Loop under Playback, set as Don't Loop
+To avoid fading to black in the end of sequence,
+Open up sequence, Cinematics->Sequence change the end opacity to 0 from 1
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+To export sequence into a movie/image, click on Render in Sequencer tab
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
 
